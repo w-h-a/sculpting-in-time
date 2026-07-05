@@ -102,7 +102,7 @@
 *Deliberate, monumental, superbly engineered filmmaking that perfects the medium rather than inventing a use of it.*
 
 87. **Blade Runner** (Ridley Scott, 1982)
-88. 86. **The Matrix** (Wachowskis, 1999)
+88. **The Matrix** (Wachowskis, 1999)
 89. **Sherlock Jr.** (Keaton, 1924)
 90. **The Battle of Algiers** (Pontecorvo, 1966)
 91. **The General** (Keaton, 1926)
