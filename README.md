@@ -6,7 +6,6 @@ Film rankings!
 
 - [All-Time Favorites](all-time.md)
 - [Top Directors](top-directors.md)
-- By Century — *(coming)*
-- By Decade — *(coming)*
-- By Year — *(coming)* 
-- By Season — *(coming)*
+- [By Decade](by-decade.md)
+- [By Year](by-year.md)
+- [By Season](by-season.md)
