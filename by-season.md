@@ -12,11 +12,11 @@
 
 ### January
 - **Au hasard Balthazar · A Man Escaped** — Bresson; grace through pure attention.
+- **L'Atalante · The Scarlet Empress** — lyrical love and baroque desire.
+- **Once Upon a Time in Anatolia · Lives of Others** — the long search; watching across a cold night.
 - **2001: A Space Odyssey · Barry Lyndon** — Kubrick's cold sublime.
 - **Paths of Glory · Full Metal Jacket** — Kubrick on war and the machine.
-- **Grand Illusion · Lives of Others** — confinement and surveillance.
-- **L'Atalante · Hiroshima mon amour** — love and memory; the lyrical and the haunted.
-- **Night of the Hunter · The Scarlet Empress** — menace and baroque excess.
+- **Grand Illusion · Night of the Hunter** — confinement and menace.
 
 ### February
 - **The Turin Horse · Werckmeister Harmonies** — Tarr; duration as the weight of the world.
@@ -64,10 +64,10 @@
 
 ### July
 - **The Passenger · Paris, Texas** — the man who walks away; identity lost on the road.
-- **Wild Strawberries · La Strada** — the journey as reckoning; the road back through a life.
+- **Wild Strawberries · Still Walking** — the journey home as reckoning; family, memory, mortality.
 - **The Modernity Trilogy · La Dolce Vita** — the ennui of the beautiful; society emptied out.
 - **Breathless · Vivre sa vie** — Godard; youth, the city, and the woman adrift.
-- **Aguirre, the Wrath of God · Y tu Mamá También** — the trip that changes everything.
+- **Aguirre, the Wrath of God · La Strada** — the journey into madness and the road of the lost.
 - **Bicycle Thieves · Children of Paradise** — ordinary lives on the grand stage.
 
 ### August
