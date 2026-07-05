@@ -86,9 +86,26 @@
 73. **The Man with No Name Trilogy (Fistful, For a Few Dollars More, The Good the Bad and the Ugly)** (Leone, 1964–66)
 74. **The Battle of Algiers** (Pontecorvo, 1966)
 75. **The Matrix** (Wachowskis, 1999)
+
+## Tier 4 — Constructed mastery
+*Deliberate, monumental, superbly engineered filmmaking that perfects the medium rather than inventing a use of it.*
+
 76. **Sherlock Jr.** (Keaton, 1924)
 77. **Sunset Blvd.** (Wilder, 1950)
 78. **Metropolis** (Lang, 1927)
 79. **The General** (Keaton, 1926)
 80. **Our Hospitality** (Keaton, 1923)
 81. **Earth** (Dovzhenko, 1930)
+82. **Citizen Kane** (Welles, 1941)
+83. **The Magnificent Ambersons** (Welles, 1942)
+84. **Barry Lyndon** (Kubrick, 1975)
+85. **The Shining** (Kubrick, 1980)
+86. **Paths of Glory** (Kubrick, 1957)
+87. **City Lights** (Chaplin, 1931)
+88. **Modern Times** (Chaplin, 1936)
+89. **The Great Dictator** (Chaplin, 1940)
+90. **Vertigo** (Hitchcock, 1958)
+91. **Rear Window** (Hitchcock, 1954)
+92. **Seven Samurai** (Kurosawa, 1954)
+93. **Ran** (Kurosawa, 1985)
+94. **Ikiru** (Kurosawa, 1952)
