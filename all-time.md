@@ -87,7 +87,7 @@
 74. **The Battle of Algiers** (Pontecorvo, 1966)
 75. **The Matrix** (Wachowskis, 1999)
 
-## Tier 4 — Constructed mastery
+## Tier 4
 *Deliberate, monumental, superbly engineered filmmaking that perfects the medium rather than inventing a use of it.*
 
 76. **Sherlock Jr.** (Keaton, 1924)
@@ -135,3 +135,19 @@
 118. **Raise the Red Lantern** (Zhang, 1991)
 119. **Fanny and Alexander** (Bergman, 1982)
 120. **Smiles of a Summer Night** (Bergman, 1955)
+121. **North by Northwest** (Hitchcock, 1959)
+122. **Strangers on a Train** (Hitchcock, 1951)
+123. **Notorious** (Hitchcock, 1946)
+124. **The 39 Steps** (Hitchcock, 1935)
+125. **The Big Sleep** (Hawks, 1946)
+126. **His Girl Friday** (Hawks, 1940)
+127. **Bringing Up Baby** (Hawks, 1938)
+128. **Red River** (Hawks, 1948)
+129. **All About Eve** (Mankiewicz, 1950)
+130. **The Lady Eve** (Sturges, 1941)
+131. **Some Like It Hot** (Wilder, 1959)
+132. **The Apartment** (Wilder, 1960)
+133. **Trouble in Paradise** (Lubitsch, 1932)
+134. **To Be or Not to Be** (Lubitsch, 1942)
+135. **The Treasure of the Sierra Madre** (Huston, 1948)
+
