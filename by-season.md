@@ -30,11 +30,11 @@
 
 ### March
 - **Sansho the Bailiff · Taste of Cherry** — suffering, mercy, and the long road through.
-- **Yi Yi · Uncle Boonmee** — life across a family, life across incarnations.
+- **Uncle Boonmee · Syndromes and a Century** — Weerasethakul; porous time, memory, and the life beyond the life.
 - **In the Mood for Love · Chungking Express / Fallen Angels** — Wong Kar-Wai; longing and the near-miss.
 - **Breaking the Waves · Talk to Her** — love, sacrifice, and devotion past reason.
 - **Raise the Red Lantern · Jules et Jim** — desire inside a structure; ties that tighten.
-- **The 400 Blows · Cinema Paradiso** — a boy and the movies; youth and escape.
+- **The 400 Blows · Yi Yi** — youth and the movies; a life beginning to take its shape.
 
 ### April
 - **3 Women · Short Cuts** — Altman; dreamlike drift and the mosaic of lives.
@@ -81,12 +81,12 @@
 ## Fall
 
 ### September
-- **Days of Heaven · Apocalypse Now** — the lyrical journey; light and dread in the land.
+- **Days of Heaven · Silent Light** — agrarian light; the day from sunrise to dusk, and what it holds.
 - **Spirited Away · My Neighbor Totoro** — Miyazaki; childhood and the spirit world.
 - **Black Narcissus · The Red Shoes** — Powell & Pressburger; color as obsession and desire.
 - **8½ · Amarcord** — Fellini; memory, fantasy, and the crowded self.
 - **The Leopard · Manhattan** — a world's autumn; the beauty of an order passing away.
-- **A Woman Under the Influence · Casablanca** — love under pressure; devotion that costs.
+- **A Woman Under the Influence · Apocalypse Now** — love and dread under unbearable pressure.
 
 ### October
 - **Day of Wrath · The Witch** — witch-accusation and religious dread, 1943 and its descendant.
