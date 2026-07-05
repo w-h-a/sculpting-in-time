@@ -26,14 +26,14 @@
 21. **Yi Yi** (Yang, 2000)
 22. **Taste of Cherry** (Kiarostami, 1997)
 23. **An Autumn Afternoon** (Ozu, 1962)
-24. **Late Autumn** (Ozu, 1960) — The Noriko mode reprised; marriage and time. Attention + Time.
-25. **End of Summer** (Ozu, 1961) — Late Ozu; family and mortality in stillness. Attention + Time.
+24. **Late Autumn** (Ozu, 1960)
+25. **End of Summer** (Ozu, 1961)
 
 ## Tier 2
 *Sublime time-and-attention cinema that refines an existing invention rather than founding one, or works one revolution-currency deeply rather than several.*
 
-26.  **2001: A Space Odyssey** (Kubrick, 1968)
-27.  **A Hidden Life** (Malick, 2019)
+26. **2001: A Space Odyssey** (Kubrick, 1968)
+27. **A Hidden Life** (Malick, 2019)
 28. **The Thin Red Line** (Malick, 1998)
 29. **Woman in the Dunes** (Teshigahara, 1964)
 30. **La Jetée** (Marker, 1962)
