@@ -4,9 +4,9 @@
 *(in progress)*
 
 **Wes:**
-1. Backrooms (Parsons)
-2. Obsession (Barker)
-3. The Drama (Borgli)
+1. The Drama (Borgli)
+2. Backrooms (Parsons)
+3. Obsession (Barker)
 4. Toy Story 5 (Stanton)
 5. Project Hail Mary (Lord & Miller)
 6. 28 Years Later: The Bone Temple (DaCosta)
@@ -53,12 +53,6 @@
 32. Famous (Hill)
 33. How to Rob a Bank (Leitch)
 34. Wizards! (Michôd)
-35. Backrooms (Parsons)
-36. Obsession (Barker)
-37. The Drama (Borgli)
-38. Toy Story 5 (Stanton)
-39. Project Hail Mary (Lord & Miller)
-40. 28 Years Later: The Bone Temple (DaCosta)
 
 ### 2025
 
