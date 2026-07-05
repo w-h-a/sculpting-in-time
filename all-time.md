@@ -1,7 +1,7 @@
 # All-Time Favorites
 
 ## Tier 1
-*Best use of time and attention.*
+*Most revolutionary use of time and attention.*
 
 1. **Mirror** (Tarkovsky, 1975)
 2. **Andrei Rublev** (Tarkovsky, 1966)
@@ -9,7 +9,7 @@
 4. **Ordet** (Dreyer, 1955)
 5. **The Turin Horse** (Tarr, 2011)
 6. **Werckmeister Harmonies** (Tarr, 2000)
-7. **Noriko Trilogy (Late Spring, Early Summer, and Tokyo Story)** (Ozu, 1949, 1951, 1953)
+7. **Noriko Trilogy (Late Spring, Early Summer, and Tokyo Story)** (Ozu, 1949–1953)
 8. **Stalker** (Tarkovsky, 1979)
 9.  **Sansho the Bailiff** (Mizoguchi, 1954)
 10. **Nostalghia** (Tarkovsky, 1983)
@@ -32,8 +32,31 @@
 ## Tier 2
 *Sublime time-and-attention cinema that refines an existing invention rather than founding one, or works one revolution-currency deeply rather than several.*
 
-26. **A Hidden Life** (Malick, 2019)
-27.  **The Thin Red Line** (Malick, 1998)
-28. **Woman in the Dunes** (Teshigahara, 1964)
-29. **La Jetée** (Marker, 1962)
-30. **The Passenger** (Antonioni, 1975)
+26.  **2001: A Space Odyssey** (Kubrick, 1968)
+27.  **A Hidden Life** (Malick, 2019)
+28. **The Thin Red Line** (Malick, 1998)
+29. **Woman in the Dunes** (Teshigahara, 1964)
+30. **La Jetée** (Marker, 1962)
+31. **The Passenger** (Antonioni, 1975)
+32. **Pickpocket** (Bresson, 1959)
+33. **A Man Escaped** (Bresson, 1956)
+34. **The Modernity Trilogy (L'Avventura, La Notte, L'Eclisse)** (Antonioni, 1960–62)
+35. **Day of Wrath** (Dreyer, 1943)
+36. **Gertrud** (Dreyer, 1964)
+37. **Ugetsu** (Mizoguchi, 1953)
+38. **Persona** (Bergman, 1966) 
+39. **Wild Strawberries** (Bergman, 1957)
+40. **Red Desert** (Antonioni, 1964)
+41. **Paris, Texas** (Wenders, 1984)
+42. **Still Walking** (Koreeda, 2008)
+43. **Blow-Up** (Antonioni, 1966)
+44. **The Double Life of Véronique** (Kieślowski, 1991)
+45. **Three Colors Trilogy (Blue, White, Red)** (Kieślowski, 1993–94)
+46. **Dekalog** (Kieślowski, 1988)
+47. **Playtime** (Tati, 1967)
+48. **Black Narcissus** (Powell & Pressburger, 1947)
+49. **The Red Shoes** (Powell & Pressburger, 1948)
+50. **Spirited Away** (Miyazaki, 2001)
+51. **My Neighbor Totoro** (Miyazaki, 1988)
+52. **Sunrise** (Murnau, 1927)
+53. **The Last Laugh** (Murnau, 1924)
