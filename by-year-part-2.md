@@ -206,6 +206,6 @@
 5. "Mank" Director: David Fincher B+
 6. "Kajillionaire" Director: Miranda July B
 7. "I'm Thinking Of Ending Things" Director: Charlie Kaufman B
-7. "News of the World" Director: Paul Greengrass B
+8. "News of the World" Director: Paul Greengrass B
 9. "Tenet" Director: Christopher Noland B
 10. "Freaky" Director: Christopher Landon B

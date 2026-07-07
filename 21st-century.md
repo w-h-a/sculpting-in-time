@@ -31,6 +31,6 @@
 29. **The Wailing** (Na Hong-jin, 2016)
 30. **Y tu Mamá También** (Cuarón, 2001)
 31. **The Triplets of Belleville** (Chomet, 2003)
-32. **4 Months, 3 Weeks and 2 Days** (Mungiu, 2007)
+32. **4 Months, 3 Weeks and 2 Days** (Mungiu, 2008)
 33. **Paranoid Park** (van Sant, 2007)
 34. **Punch-Drunk Love** (P.T. Anderson, 2002)
