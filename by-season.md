@@ -42,7 +42,7 @@
 - **Notorious · Strangers on a Train** — Hitchcock; guilt, doubling, and the exchange.
 - **North by Northwest · The 39 Steps** — Hitchcock; the innocent man on the run.
 - **The Matrix · Blood Simple** — the trap springs shut; noir and its neo descendant.
-- **Raising Arizona · His Girl Friday** — screwball at full velocity.
+- **Raising Arizona · Bringing Up Baby** — screwball at full velocity.
 
 ### May
 - **The Tree of Life · Badlands** — Malick; nature, youth, and the American plain.
@@ -75,7 +75,7 @@
 - **Early Summer · End of Summer** — Ozu; the Japanese summer, family and change.
 - **Rashomon · High and Low** — Kurosawa; truth fractured, and the moral trap.
 - **Seven Samurai · Once Upon a Time in the West** — the epic showdown; men who defend a place.
-- **The Man Who Shot Liberty Valance · My Darling Clementine** — Ford; the myth of the West.
+- **The Man Who Shot Liberty Valance · The Searchers** — Ford; the myth of the West.
 - **The Treasure of the Sierra Madre · Red River** — greed and the drive; the frontier tested.
 
 ## Fall
