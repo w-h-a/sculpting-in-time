@@ -81,8 +81,8 @@
 ### 2016
 
 **Wes:**
-1. Krisha (Schults)
-2. The Witch (Eggers)
+1. The Witch (Eggers)
+2. Krisha (Schults)
 3. The Wailing (Na Hong-jin)
 4. Moonlight (Jenkins)
 5. Paterson (Jarmusch)
