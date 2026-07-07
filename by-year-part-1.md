@@ -180,8 +180,8 @@
 10. Looper (Johnson)
 
 ### 2011
-1. The Tree of Life (Malick) 
-2. The Turin Horse (Tarr)
+1. The Turin Horse (Tarr)
+2. The Tree of Life (Malick) 
 3. Once Upon a Time in Anatolia (Ceylan)
 4. A Separation (Farhadi)
 5. Melancholia (von Trier)

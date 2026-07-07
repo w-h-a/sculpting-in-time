@@ -31,10 +31,10 @@
 ### March
 - **Sansho the Bailiff · Taste of Cherry** — suffering, mercy, and the long road through.
 - **Uncle Boonmee · Syndromes and a Century** — Weerasethakul; porous time, memory, and the life beyond the life.
+- **The Assassin · Yi Yi** — Taiwan's masters; stillness and the fullness of a life.
 - **In the Mood for Love · Chungking Express / Fallen Angels** — Wong Kar-Wai; longing and the near-miss.
+- **The 400 Blows · Jules et Jim** — Truffaut; youth, freedom, and the ache underneath.
 - **Breaking the Waves · Talk to Her** — love, sacrifice, and devotion past reason.
-- **Raise the Red Lantern · Jules et Jim** — desire inside a structure; ties that tighten.
-- **The 400 Blows · Yi Yi** — youth and the movies; a life beginning to take its shape.
 
 ### April
 - **3 Women · Short Cuts** — Altman; dreamlike drift and the mosaic of lives.
@@ -57,9 +57,9 @@
 ### June
 - **The Thin Red Line · Red Desert** — the soul estranged; nature and the industrial waste.
 - **Mulholland Dr. · Blue Velvet** — Lynch; the rot beneath the bright surface.
+- **Holy Motors · Taxi Driver** — the city at night; a man dissolving into the roles he plays.
 - **Do the Right Thing · City of God** — the street at boiling point; heat and violence.
-- **Taxi Driver · Chinatown** — the city's corruption through one man's descent.
-- **There Will Be Blood · Barton Fink** — American ambition turned monstrous.
+- **There Will Be Blood · Chinatown** — American ambition and the corruption underneath.
 - **Double Indemnity · No Country for Old Men** — the crime and the reckoning; noir old and new.
 
 ### July
