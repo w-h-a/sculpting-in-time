@@ -161,8 +161,8 @@
 ### 2021
 
 **Wes:**
-1. After Yang (Kogonada)
-2. The Power of the Dog (Campion)
+1. The Power of the Dog (Campion)
+2. After Yang (Kogonada)
 3. Spencer (Larraín)
 4. C'mon C'mon (Mills)
 5. Licorice Pizza (P.T. Anderson)
