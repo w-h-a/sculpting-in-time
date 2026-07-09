@@ -2,14 +2,14 @@
 
 ## 2020s
 *(in progress)*
-1. Perfect Days (Wenders, 2023)
-2. First Cow (Reichardt, 2020)
-3. Evil Does Not Exist (Hamaguchi, 2024)
-4. After Yang (Kogonada, 2021)
-5. The Zone of Interest (Glazer, 2023)
-6. TÁR (Field, 2022)
-7. The Power of the Dog (Campion, 2021)
-8.  I Saw the TV Glow (Schoenbrun, 2024)
+1. Perfect Days (2023)
+2. First Cow (2020)
+3. Evil Does Not Exist (2024)
+4. The Power of the Dog (2021)
+5. The Zone of Interest (2023)
+6. TÁR (2022)
+7. I Saw the TV Glow (2024)
+8. After Yang (2021)
 
 ## 2010s
 1. The Turin Horse (2011)
