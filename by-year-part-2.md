@@ -4,13 +4,13 @@
 *(in progress)*
 
 **Wes:**
-1. The Drama (Borgli)
-2. Backrooms (Parsons)
-3. Obsession (Barker)
-4. Toy Story 5 (Stanton)
-5. Project Hail Mary (Lord & Miller)
-6. 28 Years Later: The Bone Temple (DaCosta)
-7. I Love Boosters (Riley)
+1. The Drama (Borgli) B+
+2. Toy Story 5 (Stanton) B+
+3. Backrooms (Parsons) B+
+4. Obsession (Barker) B+
+5. Project Hail Mary (Lord & Miller) B
+6. 28 Years Later: The Bone Temple (DaCosta) B
+7. I Love Boosters (Riley) B-
 
 **Val:**
 1. Backrooms (Kane Parsons) A-
@@ -19,40 +19,48 @@
 4. 28 Years Later: The Bone Temple (Nia DaCosta) B+
 
 **Looking forward:**
-1. All of a Sudden (Hamaguchi)
-2. Possible Love (Lee Chang-dong)
-3. Look Back (Kore-eda)
+1. The Way of the Wind (Malick)
+2. All of a Sudden (Hamaguchi)
+3. Possible Love (Lee Chang-dong)
 4. Out of This World (Serra)
-5. Zi (Kogonada)
-6. Werwulf (Eggers)
-7. Bucking Fastard (Herzog)
-8. Digger (Iñárritu)
-9. Bitter Christmas (Almodóvar)
-10. Paper Tiger (Gray)
-11. Teenage Sex and Death at Camp Miasma (Schoenbrun)
-12. The Entertainment System Is Down (Östlund)
+5. Look Back (Kore-eda)
+6. Zi (Kogonada)
+7. Werwulf (Eggers)
+8. Fjord (Mungiu)
+9. The Basics of Philosophy (Schrader)
+10. Teenage Sex and Death at Camp Miasma (Schoenbrun)
+11. Bucking Fastard (Herzog)
+12. At the Sea (Mundruczó)
 13. A Long Winter (Haigh)
-14. At the Sea (Mundruczó)
-15. Hot Spot (Smoczyńska)
-16. Wild Horse Nine (McDonagh)
-17. Cry to Heaven (Ford)
-18. The Basics of Philosophy (Schrader)
-19. Out of This World / Sweetsick (Birch)
-20. A Place in Hell (Domont)
-21. Whitney Springs (Parker)
-22. Alpha Gang (Zellner Bros)
-23. End of Oak Street (Mitchell)
-24. Other Mommy (Savage)
-25. Onslaught (Wingard)
-26. Ray Gunn (Bird)
-27. The Adventures of Cliff Booth (Fincher)
-28. Jack of Spades (Coen)
-29. Dune: Part Three (Villeneuve)
-30. The Dog Stars (Scott)
-31. Misty Green (Rock)
-32. Famous (Hill)
-33. How to Rob a Bank (Leitch)
-34. Wizards! (Michôd)
+14. End of Oak Street (Mitchell)
+15. Bitter Christmas (Almodóvar)
+16. The Entertainment System Is Down (Östlund)
+17. Digger (Iñárritu)
+18. Paper Tiger (Gray)
+19. Dune: Part Three (Villeneuve)
+20. Jack of Spades (Coen)
+21. The Adventures of Cliff Booth (Fincher)
+22. The Dog Stars (Scott)
+23. Cry to Heaven (Ford)
+24. Alpha Gang (Zellner Bros)
+25. Wild Horse Nine (McDonagh)
+26. The Drama (Borgli)
+27. Ray Gunn (Bird)
+28. Toy Story 5 (Stanton)
+29. Hot Spot (Smoczyńska)
+30. Sweetsick (Birch)
+31. Backrooms (Parsons)
+32. Obsession (Barker)
+33. Famous (Hill)
+34. Misty Green (Rock)
+35. A Place in Hell (Domont)
+36. Whitney Springs (Parker)
+37. Project Hail Mary (Lord & Miller)
+38. 28 Years Later: The Bone Temple (DaCosta)
+39. Onslaught (Wingard)
+40. Other Mommy (Savage)
+41. How to Rob a Bank (Leitch)
+42. Wizards! (Michôd)
 
 ### 2025
 
