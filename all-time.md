@@ -25,7 +25,7 @@
 20. **Wings of Desire** (Wenders, 1987)
 
 ## Tier 2
-*Sublime time-and-attention cinema that refines an existing invention rather than founding one, or founds a mood-revolution*
+*Refines the above without founding it.*
 
 21. **Yi Yi** (Yang, 2000)
 22. **Taste of Cherry** (Kiarostami, 1997)
@@ -75,7 +75,7 @@
 66. **The Last Laugh** (Murnau, 1924)
 
 ## Tier 3
-*Radical invention in film language but not the sculpting of duration.*
+*Radical invention in film language but not in the manner above.*
 
 67. **Hiroshima mon amour** (Resnais, 1959)
 68. **Un Chien Andalou** (Buñuel & Dalí, 1929)
@@ -99,7 +99,7 @@
 86. **The Man with No Name Trilogy (Fistful, For a Few Dollars More, The Good the Bad and the Ugly)** (Leone, 1964–66)
 
 ## Tier 4
-*Deliberate, monumental, superbly engineered filmmaking that perfects the medium rather than inventing a use of it.*
+*Monumental, superbly crafted, perfecting the medium rather than inventing a use of it.*
 
 87. **The Matrix** (Wachowskis, 1999)
 88. **Blade Runner** (Ridley Scott, 1982)
