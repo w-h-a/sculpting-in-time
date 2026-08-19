@@ -74,7 +74,7 @@
 66. **The Last Laugh** (Murnau, 1924)
 
 ## Tier 3
-*Radical invention in film language but not in the manner above.*
+*Radically inventive but not in the manner above.*
 
 67. **Hiroshima mon amour** (Resnais, 1959)
 68. **Un Chien Andalou** (Buñuel & Dalí, 1929)
@@ -98,7 +98,7 @@
 86. **The Man with No Name Trilogy (Fistful, For a Few Dollars More, The Good the Bad and the Ugly)** (Leone, 1964–66)
 
 ## Tier 4
-*Monumental, superbly crafted, perfecting the medium rather than inventing a use of it.*
+*Monumental, superbly crafted films.*
 
 87. **The Matrix** (Wachowskis, 1999)
 88. **Blade Runner** (Ridley Scott, 1982)
