@@ -25,7 +25,6 @@
 20. **Wings of Desire** (Wenders, 1987)
 
 ## Tier 2
-*Refines the above without founding it.*
 
 21. **Yi Yi** (Yang, 2000)
 22. **Taste of Cherry** (Kiarostami, 1997)
