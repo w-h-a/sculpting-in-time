@@ -186,7 +186,6 @@
 - Look Back (Kore-eda) [T1]
 - Zi (Kogonada) [T1]
 - The Basics of Philosophy (Schrader) [T1]
-- Teenage Sex and Death at Camp Miasma (Schoenbrun) [T1]
 - Bucking Fastard (Herzog) [T1]
 - At the Sea (Mundruczó) [T1]
 - A Long Winter (Haigh) [T1]
