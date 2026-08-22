@@ -2,6 +2,8 @@
 
 ## 2020s
 *(in progress)*
+
+**Wes:**
 1. Perfect Days (2023)
 2. First Cow (2020)
 3. Evil Does Not Exist (2024)
@@ -10,6 +12,14 @@
 6. TÁR (2022)
 7. I Saw the TV Glow (2024)
 8. After Yang (2021)
+
+**Val:**
+1. Perfect Days (2023)
+2. The Zone of Interest (2023)
+3. Past Lives (2023)
+4. The Banshees of Inisherin (2022)
+5. Bardo (2022)
+6. The Power of the Dog (2021)
 
 ## 2010s
 1. The Turin Horse (2011)

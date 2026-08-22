@@ -33,9 +33,11 @@
 
 **Val:**
 1. Backrooms (Kane Parsons) A-
-2. Toy Story 5 (Andrew Stanton) B+
-3. The Drama (Kristoffer Borgli) B+
-4. 28 Years Later: The Bone Temple (Nia DaCosta) B+
+2. The Drama (Kristoffer Borgli) B+
+3. Toy Story 5 (Andrew Stanton) B+
+4. Obsession (Barker) B+
+5. Project Hail Mary (Lord & Miller) B
+6. 28 Years Later: The Bone Temple (Nia DaCosta) B
 
 **Looking forward:**
 
@@ -169,6 +171,7 @@
 - Nov 25 — All of a Sudden (Hamaguchi) [T1]
 - Nov 25 — The Adventures of Cliff Booth (Fincher) [T1]
 - Nov 27 — 14th (DuVernay) [T2]
+- Nov 27 — The Mosquito Bowl (Berg) [T2]
 
 **December**
 - Dec 4 — Tender Loving Care (Leigh) [T1]
@@ -195,7 +198,6 @@
 - Famous (Hill) [T2]
 - Saturn Return (Kwedar) [T2]
 - Whitney Springs (Parker) [T2]
-- The Mosquito Bowl (Berg) [T2]
 - Wizards! (Michôd) [T2]
 
 ### 2025
@@ -213,9 +215,9 @@
 10. The Phoenician Scheme (Wes Anderson)
 
 **Val:**
-1. One Battle After Another (PTA) A
-2. Sentimental Value (Joachim Trier) A
-3. Train Dreams (Clint Bently) A
+1. Train Dreams (Clint Bently) A
+2. One Battle After Another (PTA) A
+3. Sentimental Value (Joachim Trier) A
 4. The Mastermind (Kelly Reichardt) A
 5. Die My Love (Lynne Ramsay) A-
 6. Bugonia (Yorgos Lanthimos) A-
@@ -265,11 +267,11 @@
 10. Barbie (Gerwig)
 
 **Val:**
-1. Zone of Interest (Jonathan Glazer) A
-2. Perfect Days (Wim Wenders) A
-3. Poor Things (Lanthimos) A
-4. Anatomy of a Fall (Justine Triet) A
-5. Past Lives (Celine Song) A-
+1. Perfect Days (Wim Wenders) A
+2. Zone of Interest (Jonathan Glazer) A
+3. Past Lives (Celine Song) A-
+4. Poor Things (Lanthimos) A
+5. Anatomy of a Fall (Justine Triet) A
 6. All of Us Strangers (Andrew Haigh) A-
 7. May/December (Todd Haynes) A-
 8. Barbie (Greta Gerwig) A-
@@ -291,9 +293,9 @@
 10. Top Gun: Maverick (Kosinski)
 
 **Val:**
-1. Bardo (Alejandro Gonzalez Inarritu) A
-2. TÁR (Todd Field) A
-3. The Banshees of Inisherin (Martin McDonagh) A
+1. The Banshees of Inisherin (Martin McDonagh) A
+2. Bardo (Alejandro Gonzalez Inarritu) A
+3. TÁR (Todd Field) A
 4. Armageddon Time (James Gray) A
 5. The Worst Person in the World (Joachim Trier) A
 6. The Northman (Robert Eggers) A-
@@ -317,11 +319,11 @@
 10. Last Night in Soho (Wright)
 
 **Val:**
-1. "Parallel Mothers" Director: Pedro Almodovar A
-2. "Spencer" Director: Pablo Larrain A
-3. "The French Dispatch" Director: Wes Anderson A
-4. "Licorice Pizza" Director: Paul Thomas Anderson A
-5. "The Power Of The Dog" Director: Jane Campion A
+1. "The Power Of The Dog" Director: Jane Campion A
+2. "Parallel Mothers" Director: Pedro Almodovar A
+3. "Spencer" Director: Pablo Larrain A
+4. "The French Dispatch" Director: Wes Anderson A
+5. "Licorice Pizza" Director: Paul Thomas Anderson A
 6. "After Yang" Director: Kogandoa A
 7. "Luca" Director: Enrioc Casarosa A
 8. "Judas and the Black Messiah" Director: Shaka King A-
