@@ -215,16 +215,16 @@
 10. The Phoenician Scheme (Wes Anderson)
 
 **Val:**
-1. Train Dreams (Clint Bently) A
-2. One Battle After Another (PTA) A
-3. Sentimental Value (Joachim Trier) A
-4. The Mastermind (Kelly Reichardt) A
-5. Die My Love (Lynne Ramsay) A-
-6. Bugonia (Yorgos Lanthimos) A-
-7. Hamnet (Chloe Zhao) A-
-8. Jay Kelly (Noah Baumbach) A-
-9. Americana (Tony Tost) A-
-10. The Phoenician Scheme (Wes Anderson) A-
+1. Train Dreams (Bentley)
+2. One Battle After Another (P.T. Anderson)
+3. Sentimental Value (Trier)
+4. The Mastermind (Reichardt)
+5. Die My Love (Ramsay)
+6. Bugonia (Lanthimos)
+7. Hamnet (Zhao)
+8. Jay Kelly (Baumbach)
+9. Americana (Tost)
+10. The Phoenician Scheme (Wes Anderson)
 
 ### 2024
 
@@ -241,16 +241,16 @@
 10. Drive-Away Dolls (Coen)
 
 **Val:**
-1. Nosferatu (Robert Eggers) A
-2. The Room Next Door (Pedro Almodovar) A
-3. Civil War (Alex Garland) A
-4. Evil Does Not Exist (Ryusuke Hamaguchi) A
-5. Dune: Part 2 (Denis Villeneuve) A-
-6. Kinds of Kindness (Yorgos Lanthimos) A-
-7. Furiosa (George Miller) A-
-8. The Substance (Coralie Faraget) A-
-9. I Saw the TV Glow (Jane Schoenbrun) A-
-10. Drive Away Dolls (Ethan Coen) B+
+1. Nosferatu (Eggers)
+2. The Room Next Door (Almodóvar)
+3. Civil War (Garland)
+4. Evil Does Not Exist (Hamaguchi)
+5. Dune: Part 2 (Villeneuve)
+6. Kinds of Kindness (Lanthimos)
+7. Furiosa (Miller)
+8. The Substance (Fargeat)
+9. I Saw the TV Glow (Schoenbrun)
+10. Drive Away Dolls (Coen)
 
 ### 2023
 
@@ -267,16 +267,16 @@
 10. Barbie (Gerwig)
 
 **Val:**
-1. Perfect Days (Wim Wenders) A
-2. Zone of Interest (Jonathan Glazer) A
-3. Past Lives (Celine Song) A-
-4. Poor Things (Lanthimos) A
-5. Anatomy of a Fall (Justine Triet) A
-6. All of Us Strangers (Andrew Haigh) A-
-7. May/December (Todd Haynes) A-
-8. Barbie (Greta Gerwig) A-
-9. The Boy and the Heron (Hayao Miyazaki) A-
-10. Asteroid City (Wes Anderson) A-
+1. Perfect Days (Wenders)
+2. Zone of Interest (Glazer)
+3. Past Lives (Song)
+4. Poor Things (Lanthimos)
+5. Anatomy of a Fall (Triet)
+6. All of Us Strangers (Haigh)
+7. May/December (Haynes)
+8. Barbie (Gerwig)
+9. The Boy and the Heron (Miyazaki)
+10. Asteroid City (Wes Anderson)
 
 ### 2022
 
@@ -293,16 +293,16 @@
 10. Top Gun: Maverick (Kosinski)
 
 **Val:**
-1. The Banshees of Inisherin (Martin McDonagh) A
-2. Bardo (Alejandro Gonzalez Inarritu) A
-3. TÁR (Todd Field) A
-4. Armageddon Time (James Gray) A
-5. The Worst Person in the World (Joachim Trier) A
-6. The Northman (Robert Eggers) A-
-7. The Whale (Darren Aronofsky) A-
-8. Women Talking (Sarah Polley) A-
-9. White Noise (Noah Baumbach) A-
-10. Men (Alex Garland) A-
+1. The Banshees of Inisherin (McDonagh)
+2. Bardo (Iñárritu)
+3. TÁR (Field)
+4. Armageddon Time (Gray)
+5. The Worst Person in the World (Trier)
+6. The Northman (Eggers)
+7. The Whale (Aronofsky)
+8. Women Talking (Polley)
+9. White Noise (Baumbach)
+10. Men (Garland)
 
 ### 2021
 
@@ -319,16 +319,16 @@
 10. Last Night in Soho (Wright)
 
 **Val:**
-1. "The Power Of The Dog" Director: Jane Campion A
-2. "Parallel Mothers" Director: Pedro Almodovar A
-3. "Spencer" Director: Pablo Larrain A
-4. "The French Dispatch" Director: Wes Anderson A
-5. "Licorice Pizza" Director: Paul Thomas Anderson A
-6. "After Yang" Director: Kogandoa A
-7. "Luca" Director: Enrioc Casarosa A
-8. "Judas and the Black Messiah" Director: Shaka King A-
-9. "C'mon C'mon" Director: Mike Mills A-
-10. "The Green Knight" Director: David Lowery A-
+1. The Power Of The Dog (Campion)
+2. Parallel Mothers (Almodóvar)
+3. Spencer (Larraín)
+4. The French Dispatch (Wes Anderson)
+5. Licorice Pizza (P.T. Anderson)
+6. After Yang (Kogonada)
+7. Luca (Casarosa)
+8. Judas and the Black Messiah (King)
+9. C'mon C'mon (Mills)
+10. The Green Knight (Lowery)
 
 ### 2020
 
@@ -345,13 +345,13 @@
 10. Freaky (Landon)
 
 **Val:**
-1. "His House" Director: Remy Weekes A-
-2. "Nomadland" Director: Chloe Zhao A-
-3. "Small Axe" Director: Steve McQueen A-
-4. "First Cow" Director: Kelly Reichardt A-
-5. "Mank" Director: David Fincher B+
-6. "Kajillionaire" Director: Miranda July B
-7. "I'm Thinking Of Ending Things" Director: Charlie Kaufman B
-8. "News of the World" Director: Paul Greengrass B
-9. "Tenet" Director: Christopher Noland B
-10. "Freaky" Director: Christopher Landon B
+1. His House (Weekes)
+2. Nomadland (Zhao)
+3. Small Axe (McQueen)
+4. First Cow (Reichardt)
+5. Mank (Fincher)
+6. Kajillionaire (July)
+7. I'm Thinking Of Ending Things (Kaufman)
+8. News of the World (Greengrass)
+9. Tenet (Nolan)
+10. Freaky (Landon)

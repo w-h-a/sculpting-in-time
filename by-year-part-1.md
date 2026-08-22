@@ -15,16 +15,16 @@
 10. Us (Peele)
 
 **Val:**
-1. Dolor Y Gloria (Almodovar) A+
-2. A Hidden Life (Malick) A+
-3. Parasite (Bong Joon-Ho) A
-4. Marriage Story (Baumbach) A
-5. Once Upon A Time In Hollywood (Tarantino) A
-6. The Irishman (Scorsese) A
-7. Little Women (Gerwig) A
-8. The Lighthouse (Eggers) A-
-9. 1917 (Mendes) A-
-10. Knives Out (Johnson) A-
+1. Dolor Y Gloria (Almodóvar)
+2. A Hidden Life (Malick)
+3. Parasite (Bong Joon-ho)
+4. Marriage Story (Baumbach)
+5. Once Upon A Time In Hollywood (Tarantino)
+6. The Irishman (Scorsese)
+7. Little Women (Gerwig)
+8. The Lighthouse (Eggers)
+9. 1917 (Mendes)
+10. Knives Out (Johnson)
 
 ### 2018
 
@@ -41,16 +41,16 @@
 10. Support the Girls (Bujalski)
 
 **Val:**
-1. Roma (Cuarón) A+
-2. The Ballad of Buster Scruggs (Coen Bros) A
-3. A Long Day's Journey Into the Night (Bi Gan) A
-4. The Favorite (Lanthimos) A
-5. Shoplifters (Koreeda) A
-6. Burning (Lee Chang-dong) A
-7. If Beale Street Could Talk (Jenkins) A-
-8. Isle Of Dogs (Wes Anderson) A-
-9. Annihilation (Garland) A-
-10. Hereditary (Aster) A-
+1. Roma (Cuarón)
+2. The Ballad of Buster Scruggs (Coen)
+3. A Long Day's Journey Into the Night (Bi Gan)
+4. The Favorite (Lanthimos)
+5. Shoplifters (Koreeda)
+6. Burning (Lee Chang-dong)
+7. If Beale Street Could Talk (Jenkins)
+8. Isle Of Dogs (Wes Anderson)
+9. Annihilation (Garland)
+10. Hereditary (Aster)
 
 ### 2017
 
@@ -67,16 +67,16 @@
 10. Dunkirk (Nolan)
 
 **Val:**
-1. Phantom Thread (Paul Thomas Anderson) A+
-2. Coco (Lee Unkrich) A
-3. Lady Bird (Greta Gerwig) A
-4. Get Out (Jordan Peele) A-
-5. Call Me By Your Name (Luca Guadagnino) A-
-6. The Square (Ruben Ostlund) A-
-7. A Ghost Story (David Lowery) A-
-8. mother! (Darren Aronofsky) A-
-9. Okja (Bong Joon-Ho) A-
-10. Dunkirk (Christopher Nolan) A-
+1. Phantom Thread (P.T. Anderson)
+2. Coco (Unkrich)
+3. Lady Bird (Gerwig)
+4. Get Out (Peele)
+5. Call Me By Your Name (Guadagnino)
+6. The Square (Östlund)
+7. A Ghost Story (Lowery)
+8. mother! (Aronofsky)
+9. Okja (Bong Joon-ho)
+10. Dunkirk (Nolan)
 
 ### 2016
 
@@ -93,16 +93,16 @@
 10. La La Land (Chazelle)
 
 **Val:**
-1. The Witch (Robert Eggers) A+
-2. Arrival (Denis Villeneuve) A+
-3. La La Land (Damien Chazelle) A+
-4. Moonlight (Barry Jenkins) A
-5. Cemetery of Splendor (Apichatpong Weerasethakul) A
-6. The Wailing (Na Hong-jin) A
-7. Julietta (Pedro Almodovar) A
-8. Paterson (Jim Jarmusch) A-
-9. Lobster (Yorgos Lanthimos) A-
-10. Krisha (Trey Edward Schults) B+
+1. The Witch (Eggers)
+2. Arrival (Villeneuve)
+3. La La Land (Chazelle)
+4. Moonlight (Jenkins)
+5. Cemetery of Splendor (Weerasethakul)
+6. The Wailing (Na Hong-jin)
+7. Julietta (Almodóvar)
+8. Paterson (Jarmusch)
+9. Lobster (Lanthimos)
+10. Krisha (Schults)
 
 ### 2015
 
@@ -119,16 +119,16 @@
 10. The Martian (Scott)
 
 **Val:**
-1. Carol (Todd Haynes)
-2. Victoria (Sturla Brandth Grovlen)
-3. 45 Years (Andrew Haig)
-4. Ex Machina (Alex Garland)
-5. The Assassin (Hou Hsiao-Hsien)
-6. Son of Saul (Laszlo Nemes)
-7. Revenant (AGI)
-8. Sicario (Denis Villeneuve)
-9. Hateful Eight (Quentin Tarantino)
-10. Spotlight (Tom McCarthy)
+1. Carol (Haynes)
+2. Victoria (Grovlen)
+3. 45 Years (Haigh)
+4. Ex Machina (Garland)
+5. The Assassin (Hou Hsiao-hsien)
+6. Son of Saul (Nemes)
+7. Revenant (Iñárritu)
+8. Sicario (Villeneuve)
+9. Hateful Eight (Tarantino)
+10. Spotlight (McCarthy)
     
 ### 2014
 **Wes:**
@@ -145,15 +145,15 @@
 
 **Val:**
 1. Grand Budapest Hotel (Wes Anderson)
-2. Love is Strange (Ira Sachs)
-3. The Tale of Princess Kaguya (Isao Takahata)
-4. A Girl Walks Home Alone At Night (Ana Lily Amirpour)
-5. Babadook (Jennifer Kent)
-6. Force Majeure (Ruben Ostlund)
-7. Magic in the Moonlight (Woody Allen)
-8. Birdman (Alejandro Gonzalez Inarritu)
-9. Frank (Lenny Abrahamson)
-10. Days of Future Past (Bryan Singer)
+2. Love is Strange (Sachs)
+3. The Tale of Princess Kaguya (Takahata)
+4. A Girl Walks Home Alone At Night (Amirpour)
+5. Babadook (Kent)
+6. Force Majeure (Östlund)
+7. Magic in the Moonlight (Allen)
+8. Birdman (Iñárritu)
+9. Frank (Abrahamson)
+10. Days of Future Past (Singer)
 
 ### 2013
 1. Ida (Pawlikowski)
