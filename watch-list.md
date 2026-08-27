@@ -39,53 +39,49 @@
 *Tier 2*
 1. The History of Concrete (Wilson)
 2. Primetime (Oppenheim)
-3. The Dog Stars (Scott)
-4. Once Upon a Time in Harlem (Greaves)
-5. Cry to Heaven (Ford)
-6. The Uprising (Greengrass)
-7. Alpha Gang (Zellner Bros)
-8. Elsinore (Stone)
-9. Wildwood (Knight)
-10. Backrooms (Parsons) ✅
-11. The Drama (Borgli) ✅
-12. Josephine (de Araújo)
-13. Behemoth! (Gilroy)
-14. Ray Gunn (Bird)
-15. Klara and the Sun (Waititi)
-16. Toy Story 5 (Stanton) ✅
-17. The Debut (Eisenberg)
-18. Sacrifice (Gavras)
-19. Sweetsick (Birch)
-20. Club Kid (Firstman)
-21. The Gallerist (Yan)
-22. Obsession (Barker) ✅
-23. Ha-Chan, Shake Your Booty! (Wladyka)
-24. Famous (Hill)
-25. The Incomer (Paxton)
-26. Misty Green (Rock)
-27. Your Mother, Your Mother, Your Mother (Tariq)
-28. Animals (Affleck)
-29. Saturn Return (Kwedar)
-30. Whitney Springs (Parker)
-31. 14th (DuVernay)
-32. Musk (Gibney)
-33. Project Hail Mary (Lord & Miller) ✅
-34. Victorian Psycho (Wigon)
-35. 28 Years Later: The Bone Temple (DaCosta) ✅
-36. A Talent for Murder (Corbijn)
-37. Onslaught (Wingard)
-38. Madden (Russell)
-39. Other Mommy (Savage)
-40. Resident Evil (Cregger)
-41. How to Rob a Bank (Leitch)
-42. Bad Apples (Etzler)
-43. The Mosquito Bowl (Berg)
-44. Wizards! (Michôd)
+3. Once Upon a Time in Harlem (Greaves)
+4. Cry to Heaven (Ford)
+5. The Uprising (Greengrass)
+6. Alpha Gang (Zellner Bros)
+7. Elsinore (Stone)
+8. Wildwood (Knight)
+9.  Backrooms (Parsons) ✅
+10. The Drama (Borgli) ✅
+11. Josephine (de Araújo)
+12. Behemoth! (Gilroy)
+13. Ray Gunn (Bird)
+14. Klara and the Sun (Waititi)
+15. Toy Story 5 (Stanton) ✅
+16. The Debut (Eisenberg)
+17. Sacrifice (Gavras)
+18. Sweetsick (Birch)
+19. Club Kid (Firstman)
+20. The Gallerist (Yan)
+21. Obsession (Barker) ✅
+22. Ha-Chan, Shake Your Booty! (Wladyka)
+23. Famous (Hill)
+24. The Incomer (Paxton)
+25. Misty Green (Rock)
+26. Your Mother, Your Mother, Your Mother (Tariq)
+27. Animals (Affleck)
+28. Saturn Return (Kwedar)
+29. Whitney Springs (Parker)
+30. 14th (DuVernay)
+31. Musk (Gibney)
+32. Project Hail Mary (Lord & Miller) ✅
+33. Victorian Psycho (Wigon)
+34. 28 Years Later: The Bone Temple (DaCosta) ✅
+35. A Talent for Murder (Corbijn)
+36. Onslaught (Wingard)
+37. Madden (Russell)
+38. Other Mommy (Savage)
+39. Resident Evil (Cregger)
+40. How to Rob a Bank (Leitch)
+41. Bad Apples (Etzler)
+42. The Mosquito Bowl (Berg)
+43. Wizards! (Michôd)
 
 ### By release date
-
-**August**
-- Aug 28 — The Dog Stars (Scott) [T2]
 
 **September**
 - Sep 4 — Onslaught (Wingard) [T2]
