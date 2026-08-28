@@ -67,19 +67,18 @@
 28. Saturn Return (Kwedar)
 29. Whitney Springs (Parker)
 30. 14th (DuVernay)
-31. Musk (Gibney)
-32. Project Hail Mary (Lord & Miller) ✅
-33. Victorian Psycho (Wigon)
-34. 28 Years Later: The Bone Temple (DaCosta) ✅
-35. A Talent for Murder (Corbijn)
-36. Onslaught (Wingard)
-37. Madden (Russell)
-38. Other Mommy (Savage)
-39. Resident Evil (Cregger)
-40. How to Rob a Bank (Leitch)
-41. Bad Apples (Etzler)
-42. The Mosquito Bowl (Berg)
-43. Wizards! (Michôd)
+31. Project Hail Mary (Lord & Miller) ✅
+32. Victorian Psycho (Wigon)
+33. 28 Years Later: The Bone Temple (DaCosta) ✅
+34. A Talent for Murder (Corbijn)
+35. Onslaught (Wingard)
+36. Madden (Russell)
+37. Other Mommy (Savage)
+38. Resident Evil (Cregger)
+39. How to Rob a Bank (Leitch)
+40. Bad Apples (Etzler)
+41. The Mosquito Bowl (Berg)
+42. Wizards! (Michôd)
 
 ### By release date
 
@@ -89,7 +88,6 @@
 - Sep 11 — The Uprising (Greengrass) [T2]
 - Sep 13 — Alpha Gang (Zellner Bros) [T2]
 - Sep 18 — The History of Concrete (Wilson) [T2]
-- Sep 18 — Musk (Gibney) [T2]
 - Sep 18 — Resident Evil (Cregger) [T2]
 - Sep 18 — Bad Apples (Etzler) [T2]
 - Sep 25 — Primetime (Oppenheim) [T2]
