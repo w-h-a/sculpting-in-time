@@ -98,7 +98,7 @@
 86. **The Man with No Name Trilogy (Fistful, For a Few Dollars More, The Good the Bad and the Ugly)** (Leone, 1964–66)
 
 ## Tier 4
-*Monumental, superbly crafted films.*
+*Superbly crafted films.*
 
 87. **The Matrix** (Wachowskis, 1999)
 88. **Blade Runner** (Ridley Scott, 1982)

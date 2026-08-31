@@ -16,25 +16,24 @@
 9. Werwulf (Eggers)
 10. Fjord (Mungiu)
 11. Queen at Sea (Hammer)
-12. Hope (Na Hong-jin)
-13. Tender Loving Care (Leigh)
-14. The Basics of Philosophy (Schrader)
-15. Teenage Sex and Death at Camp Miasma (Schoenbrun) ⏳
-16. Bucking Fastard (Herzog)
-17. At the Sea (Mundruczó)
-18. A Long Winter (Haigh)
-19. Coward (Dhont)
-20. Bitter Christmas (Almodóvar)
-21. The Entertainment System Is Down (Östlund)
-22. Clarissa (Esiri Bros)
-23. The Man I Love (Sachs)
-24. Digger (Iñárritu)
-25. Paper Tiger (Gray)
-26. La Bola Negra (Calvo & Ambrossi)
-27. Gentle Monster (Kreutzer)
-28. Dune: Part Three (Villeneuve)
-29. The Adventures of Cliff Booth (Fincher)
-30. Wild Horse Nine (McDonagh)
+12. Tender Loving Care (Leigh)
+13. The Basics of Philosophy (Schrader)
+14. Teenage Sex and Death at Camp Miasma (Schoenbrun) ✅
+15. Bucking Fastard (Herzog)
+16. At the Sea (Mundruczó)
+17. A Long Winter (Haigh)
+18. Coward (Dhont)
+19. Bitter Christmas (Almodóvar)
+20. The Entertainment System Is Down (Östlund)
+21. Clarissa (Esiri Bros)
+22. The Man I Love (Sachs)
+23. Digger (Iñárritu)
+24. Paper Tiger (Gray)
+25. La Bola Negra (Calvo & Ambrossi)
+26. Gentle Monster (Kreutzer)
+27. Dune: Part Three (Villeneuve)
+28. The Adventures of Cliff Booth (Fincher)
+29. Wild Horse Nine (McDonagh)
 
 *Tier 2*
 1. The History of Concrete (Wilson)
@@ -71,20 +70,17 @@
 32. Victorian Psycho (Wigon)
 33. 28 Years Later: The Bone Temple (DaCosta) ✅
 34. A Talent for Murder (Corbijn)
-35. Onslaught (Wingard)
-36. Madden (Russell)
-37. Other Mommy (Savage)
-38. Resident Evil (Cregger)
-39. How to Rob a Bank (Leitch)
-40. Bad Apples (Etzler)
-41. The Mosquito Bowl (Berg)
-42. Wizards! (Michôd)
+35. Madden (Russell)
+36. Other Mommy (Savage)
+37. Resident Evil (Cregger)
+38. How to Rob a Bank (Leitch)
+39. Bad Apples (Etzler)
+40. The Mosquito Bowl (Berg)
+41. Wizards! (Michôd)
 
 ### By release date
 
 **September**
-- Sep 4 — Onslaught (Wingard) [T2]
-- Sep 9 — Hope (Na Hong-jin) [T1]
 - Sep 11 — The Uprising (Greengrass) [T2]
 - Sep 13 — Alpha Gang (Zellner Bros) [T2]
 - Sep 18 — The History of Concrete (Wilson) [T2]
