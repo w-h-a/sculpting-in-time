@@ -4,13 +4,14 @@
 *(in progress)*
 
 **Wes:**
-1. Backrooms (Parsons) B+
-2. The Drama (Borgli) B+
-3. Toy Story 5 (Stanton) B+
-4. Obsession (Barker) B
-5. Project Hail Mary (Lord & Miller) B
-6. 28 Years Later: The Bone Temple (DaCosta) B
-7. I Love Boosters (Riley) B-
+1. Teenage Sex and Death at Camp Miasma (Schoenbrun) A-
+2. Backrooms (Parsons) B+
+3. The Drama (Borgli) B+
+4. Toy Story 5 (Stanton) B+
+5. Obsession (Barker) B
+6. Project Hail Mary (Lord & Miller) B
+7. 28 Years Later: The Bone Temple (DaCosta) B
+8. I Love Boosters (Riley) B-
 
 **Val:**
 1. Backrooms (Kane Parsons) A-
