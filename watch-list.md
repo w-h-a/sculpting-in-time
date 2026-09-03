@@ -19,21 +19,20 @@
 12. Tender Loving Care (Leigh)
 13. The Basics of Philosophy (Schrader)
 14. Teenage Sex and Death at Camp Miasma (Schoenbrun) ✅
-15. Bucking Fastard (Herzog)
-16. At the Sea (Mundruczó)
-17. A Long Winter (Haigh)
-18. Coward (Dhont)
-19. Bitter Christmas (Almodóvar)
-20. The Entertainment System Is Down (Östlund)
-21. Clarissa (Esiri Bros)
-22. The Man I Love (Sachs)
-23. Digger (Iñárritu)
-24. Paper Tiger (Gray)
-25. La Bola Negra (Calvo & Ambrossi)
-26. Gentle Monster (Kreutzer)
-27. Dune: Part Three (Villeneuve)
-28. The Adventures of Cliff Booth (Fincher)
-29. Wild Horse Nine (McDonagh)
+15. At the Sea (Mundruczó)
+16. A Long Winter (Haigh)
+17. Coward (Dhont)
+18. Bitter Christmas (Almodóvar)
+19. The Entertainment System Is Down (Östlund)
+20. Clarissa (Esiri Bros)
+21. The Man I Love (Sachs)
+22. Digger (Iñárritu)
+23. Paper Tiger (Gray)
+24. La Bola Negra (Calvo & Ambrossi)
+25. Gentle Monster (Kreutzer)
+26. Dune: Part Three (Villeneuve)
+27. The Adventures of Cliff Booth (Fincher)
+28. Wild Horse Nine (McDonagh)
 
 *Tier 2*
 1. The History of Concrete (Wilson)
@@ -142,7 +141,6 @@
 - Look Back (Kore-eda) [T1]
 - Zi (Kogonada) [T1]
 - The Basics of Philosophy (Schrader) [T1]
-- Bucking Fastard (Herzog) [T1]
 - At the Sea (Mundruczó) [T1]
 - A Long Winter (Haigh) [T1]
 - The Entertainment System Is Down (Östlund) [T1]
