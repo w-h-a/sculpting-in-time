@@ -17,22 +17,21 @@
 10. Fjord (Mungiu)
 11. Queen at Sea (Hammer)
 12. Tender Loving Care (Leigh)
-13. The Basics of Philosophy (Schrader)
-14. Teenage Sex and Death at Camp Miasma (Schoenbrun) ✅
-15. At the Sea (Mundruczó)
-16. A Long Winter (Haigh)
-17. Coward (Dhont)
-18. Bitter Christmas (Almodóvar)
-19. The Entertainment System Is Down (Östlund)
-20. Clarissa (Esiri Bros)
-21. The Man I Love (Sachs)
-22. Digger (Iñárritu)
-23. Paper Tiger (Gray)
-24. La Bola Negra (Calvo & Ambrossi)
-25. Gentle Monster (Kreutzer)
-26. Dune: Part Three (Villeneuve)
-27. The Adventures of Cliff Booth (Fincher)
-28. Wild Horse Nine (McDonagh)
+13. Teenage Sex and Death at Camp Miasma (Schoenbrun) ✅
+14. At the Sea (Mundruczó)
+15. A Long Winter (Haigh)
+16. Coward (Dhont)
+17. Bitter Christmas (Almodóvar)
+18. The Entertainment System Is Down (Östlund)
+19. Clarissa (Esiri Bros)
+20. The Man I Love (Sachs)
+21. Digger (Iñárritu)
+22. Paper Tiger (Gray)
+23. La Bola Negra (Calvo & Ambrossi)
+24. Gentle Monster (Kreutzer)
+25. Dune: Part Three (Villeneuve)
+26. The Adventures of Cliff Booth (Fincher)
+27. Wild Horse Nine (McDonagh)
 
 *Tier 2*
 1. The History of Concrete (Wilson)
@@ -140,7 +139,6 @@
 - Out of This World (Serra) [T1]
 - Look Back (Kore-eda) [T1]
 - Zi (Kogonada) [T1]
-- The Basics of Philosophy (Schrader) [T1]
 - At the Sea (Mundruczó) [T1]
 - A Long Winter (Haigh) [T1]
 - The Entertainment System Is Down (Östlund) [T1]
