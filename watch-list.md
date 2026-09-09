@@ -38,49 +38,46 @@
 2. Primetime (Oppenheim)
 3. Once Upon a Time in Harlem (Greaves)
 4. Cry to Heaven (Ford)
-5. The Uprising (Greengrass)
-6. Alpha Gang (Zellner Bros)
-7. Elsinore (Stone)
-8. Wildwood (Knight)
-9.  Backrooms (Parsons) ✅
-10. The Drama (Borgli) ✅
-11. Josephine (de Araújo)
-12. Behemoth! (Gilroy)
-13. Ray Gunn (Bird)
-14. Klara and the Sun (Waititi)
-15. Toy Story 5 (Stanton) ✅
-16. The Debut (Eisenberg)
-17. Sacrifice (Gavras)
-18. Sweetsick (Birch)
-19. Club Kid (Firstman)
-20. The Gallerist (Yan)
-21. Obsession (Barker) ✅
-22. Ha-Chan, Shake Your Booty! (Wladyka)
-23. Famous (Hill)
-24. The Incomer (Paxton)
-25. Misty Green (Rock)
-26. Your Mother, Your Mother, Your Mother (Tariq)
-27. Animals (Affleck)
-28. Saturn Return (Kwedar)
-29. Whitney Springs (Parker)
-30. 14th (DuVernay)
-31. Project Hail Mary (Lord & Miller) ✅
-32. Victorian Psycho (Wigon)
-33. 28 Years Later: The Bone Temple (DaCosta) ✅
-34. A Talent for Murder (Corbijn)
-35. Madden (Russell)
-36. Other Mommy (Savage)
-37. Resident Evil (Cregger)
-38. How to Rob a Bank (Leitch)
-39. Bad Apples (Etzler)
-40. The Mosquito Bowl (Berg)
-41. Wizards! (Michôd)
+5. Alpha Gang (Zellner Bros)
+6. Elsinore (Stone)
+7. Wildwood (Knight)
+8. Backrooms (Parsons) ✅
+9. The Drama (Borgli) ✅
+10. Josephine (de Araújo)
+11. Behemoth! (Gilroy)
+12. Ray Gunn (Bird)
+13. Klara and the Sun (Waititi)
+14. Toy Story 5 (Stanton) ✅
+15. The Debut (Eisenberg)
+16. Sacrifice (Gavras)
+17. Sweetsick (Birch)
+18. Club Kid (Firstman)
+19. The Gallerist (Yan)
+20. Obsession (Barker) ✅
+21. Ha-Chan, Shake Your Booty! (Wladyka)
+22. Famous (Hill)
+23. The Incomer (Paxton)
+24. Misty Green (Rock)
+25. Your Mother, Your Mother, Your Mother (Tariq)
+26. Animals (Affleck)
+27. Saturn Return (Kwedar)
+28. Whitney Springs (Parker)
+29. 14th (DuVernay)
+30. Project Hail Mary (Lord & Miller) ✅
+31. Victorian Psycho (Wigon)
+32. 28 Years Later: The Bone Temple (DaCosta) ✅
+33. A Talent for Murder (Corbijn)
+34. Madden (Russell)
+35. Other Mommy (Savage)
+36. Resident Evil (Cregger)
+37. How to Rob a Bank (Leitch)
+38. Bad Apples (Etzler)
+39. The Mosquito Bowl (Berg)
+40. Wizards! (Michôd)
 
 ### By release date
 
 **September**
-- Sep 11 — The Uprising (Greengrass) [T2]
-- Sep 13 — Alpha Gang (Zellner Bros) [T2]
 - Sep 18 — The History of Concrete (Wilson) [T2]
 - Sep 18 — Resident Evil (Cregger) [T2]
 - Sep 18 — Bad Apples (Etzler) [T2]
@@ -143,6 +140,7 @@
 - A Long Winter (Haigh) [T1]
 - The Entertainment System Is Down (Östlund) [T1]
 - Cry to Heaven (Ford) [T2]
+- Alpha Gang (Zellner Bros) [T2]
 - Sweetsick (Birch) [T2]
 - Famous (Hill) [T2]
 - Saturn Return (Kwedar) [T2]
