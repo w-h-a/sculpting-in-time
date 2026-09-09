@@ -1,7 +1,7 @@
 # All-Time Favorites
 
 ## Tier 1
-*Most revolutionary use of time and attention.*
+*Favorite use of time and attention.*
 
 1. **Mirror** (Tarkovsky, 1975)
 2. **Andrei Rublev** (Tarkovsky, 1966)
@@ -98,7 +98,7 @@
 86. **The Man with No Name Trilogy (Fistful, For a Few Dollars More, The Good the Bad and the Ugly)** (Leone, 1964–66)
 
 ## Tier 4
-*Superbly crafted films.*
+*Other superbly crafted films.*
 
 87. **The Matrix** (Wachowskis, 1999)
 88. **Blade Runner** (Ridley Scott, 1982)
