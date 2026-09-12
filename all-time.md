@@ -22,7 +22,7 @@
 17. **Days of Heaven** (Malick, 1978)
 18. **The Tree of Life** (Malick, 2011)
 19. **The Double Life of Véronique** (Kieślowski, 1991)
-20. **The Passenger** (Antonioni, 1975)
+20. **The Modernity Trilogy (L'Avventura, La Notte, L'Eclisse)** (Antonioni, 1960–62)
 
 ## Tier 2
 
@@ -43,7 +43,7 @@
 35. **Pickpocket** (Bresson, 1959)
 36. **A Man Escaped** (Bresson, 1956)
 37. **Three Colors Trilogy (Blue, White, Red)** (Kieślowski, 1993–94)
-38. **The Modernity Trilogy (L'Avventura, La Notte, L'Eclisse)** (Antonioni, 1960–62)
+38. **The Passenger** (Antonioni, 1975)
 39. **Ugetsu** (Mizoguchi, 1953)
 40. **Persona** (Bergman, 1966)
 41. **A Long Day's Journey Into Night** (Bi Gan, 2018)
