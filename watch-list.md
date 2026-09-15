@@ -56,23 +56,22 @@
 21. Ha-Chan, Shake Your Booty! (Wladyka)
 22. Famous (Hill)
 23. The Incomer (Paxton)
-24. Misty Green (Rock)
-25. Your Mother, Your Mother, Your Mother (Tariq)
-26. Animals (Affleck)
-27. Saturn Return (Kwedar)
-28. Whitney Springs (Parker)
-29. 14th (DuVernay)
-30. Project Hail Mary (Lord & Miller) ✅
-31. Victorian Psycho (Wigon)
-32. 28 Years Later: The Bone Temple (DaCosta) ✅
-33. A Talent for Murder (Corbijn)
-34. Madden (Russell)
-35. Other Mommy (Savage)
-36. Resident Evil (Cregger)
-37. How to Rob a Bank (Leitch)
-38. Bad Apples (Etzler)
-39. The Mosquito Bowl (Berg)
-40. Wizards! (Michôd)
+24. Your Mother, Your Mother, Your Mother (Tariq)
+25. Animals (Affleck)
+26. Saturn Return (Kwedar)
+27. Whitney Springs (Parker)
+28. 14th (DuVernay)
+29. Project Hail Mary (Lord & Miller) ✅
+30. Victorian Psycho (Wigon)
+31. 28 Years Later: The Bone Temple (DaCosta) ✅
+32. A Talent for Murder (Corbijn)
+33. Madden (Russell)
+34. Other Mommy (Savage)
+35. Resident Evil (Cregger)
+36. How to Rob a Bank (Leitch)
+37. Bad Apples (Etzler)
+38. The Mosquito Bowl (Berg)
+39. Wizards! (Michôd)
 
 ### By release date
 
@@ -89,7 +88,6 @@
 **October**
 - Oct 2 — Digger (Iñárritu) [T1]
 - Oct 9 — Fjord (Mungiu) [T1]
-- Oct 9 — Misty Green (Rock) [T2]
 - Oct 9 — Animals (Affleck) [T2]
 - Oct 9 — Other Mommy (Savage) [T2]
 - Oct 10 — Clarissa (Esiri Bros) [T1]
