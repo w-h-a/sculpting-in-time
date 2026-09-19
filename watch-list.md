@@ -65,15 +65,13 @@
 30. A Talent for Murder (Corbijn)
 31. Madden (Russell)
 32. Other Mommy (Savage)
-33. Resident Evil (Cregger)
-34. How to Rob a Bank (Leitch)
-35. The Mosquito Bowl (Berg)
-36. Wizards! (Michôd)
+33. How to Rob a Bank (Leitch)
+34. The Mosquito Bowl (Berg)
+35. Wizards! (Michôd)
 
 ### By release date
 
 **September**
-- Sep 18 — Resident Evil (Cregger) [T2]
 - Sep 25 — Primetime (Oppenheim) [T2]
 - Sep 25 — Ha-Chan, Shake Your Booty! (Wladyka) [T2]
 - Sep 25 — The Incomer (Paxton) [T2]
