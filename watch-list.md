@@ -33,48 +33,40 @@
 26. Wild Horse Nine (McDonagh)
 
 *Tier 2*
-1. Primetime (Oppenheim)
-2. Once Upon a Time in Harlem (Greaves)
-3. Cry to Heaven (Ford)
-4. Alpha Gang (Zellner Bros)
-5. Elsinore (Stone)
-6. Wildwood (Knight)
-7. Backrooms (Parsons) ✅
-8. The Drama (Borgli) ✅
-9.  Josephine (de Araújo)
-10. Behemoth! (Gilroy)
-11. Ray Gunn (Bird)
-12. Klara and the Sun (Waititi)
-13. Toy Story 5 (Stanton) ✅
-14. The Debut (Eisenberg)
-15. Sacrifice (Gavras)
-16. Sweetsick (Birch)
-17. Club Kid (Firstman)
-18. The Gallerist (Yan)
-19. Obsession (Barker) ✅
-20. Ha-Chan, Shake Your Booty! (Wladyka)
-21. Famous (Hill)
-22. The Incomer (Paxton)
-23. Your Mother, Your Mother, Your Mother (Tariq)
-24. Animals (Affleck)
-25. Whitney Springs (Parker)
-26. 14th (DuVernay)
-27. Project Hail Mary (Lord & Miller) ✅
-28. Victorian Psycho (Wigon)
-29. 28 Years Later: The Bone Temple (DaCosta) ✅
-30. A Talent for Murder (Corbijn)
-31. Madden (Russell)
-32. Other Mommy (Savage)
-33. How to Rob a Bank (Leitch)
-34. The Mosquito Bowl (Berg)
-35. Wizards! (Michôd)
+1. Once Upon a Time in Harlem (Greaves)
+2. Cry to Heaven (Ford)
+3. Alpha Gang (Zellner Bros)
+4. Elsinore (Stone)
+5. Wildwood (Knight)
+6. Backrooms (Parsons) ✅
+7. The Drama (Borgli) ✅
+8.  Josephine (de Araújo)
+9.  Behemoth! (Gilroy)
+10. Ray Gunn (Bird)
+11. Klara and the Sun (Waititi)
+12. Toy Story 5 (Stanton) ✅
+13. The Debut (Eisenberg)
+14. Sacrifice (Gavras)
+15. Sweetsick (Birch)
+16. Club Kid (Firstman)
+17. The Gallerist (Yan)
+18. Obsession (Barker) ✅
+19. Famous (Hill)
+20. Your Mother, Your Mother, Your Mother (Tariq)
+21. Animals (Affleck)
+22. Whitney Springs (Parker)
+23. 14th (DuVernay)
+24. Project Hail Mary (Lord & Miller) ✅
+25. Victorian Psycho (Wigon)
+26. 28 Years Later: The Bone Temple (DaCosta) ✅
+27. A Talent for Murder (Corbijn)
+28. Madden (Russell)
+29. Other Mommy (Savage)
+30. How to Rob a Bank (Leitch)
+31. The Mosquito Bowl (Berg)
+32. Wizards! (Michôd)
 
 ### By release date
-
-**September**
-- Sep 25 — Primetime (Oppenheim) [T2]
-- Sep 25 — Ha-Chan, Shake Your Booty! (Wladyka) [T2]
-- Sep 25 — The Incomer (Paxton) [T2]
 
 **October**
 - Oct 2 — Digger (Iñárritu) [T1]
