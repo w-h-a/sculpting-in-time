@@ -22,15 +22,13 @@
 15. Coward (Dhont)
 16. Bitter Christmas (Almodóvar)
 17. The Entertainment System Is Down (Östlund)
-18. Clarissa (Esiri Bros)
-19. The Man I Love (Sachs)
-20. Digger (Iñárritu)
-21. Paper Tiger (Gray)
-22. La Bola Negra (Calvo & Ambrossi)
-23. Gentle Monster (Kreutzer)
-24. Dune: Part Three (Villeneuve)
-25. The Further Mis-Adventures of Cliff Booth (Fincher)
-26. Wild Horse Nine (McDonagh)
+18. The Man I Love (Sachs)
+19. Paper Tiger (Gray)
+20. La Bola Negra (Calvo & Ambrossi)
+21. Gentle Monster (Kreutzer)
+22. Dune: Part Three (Villeneuve)
+23. The Further Mis-Adventures of Cliff Booth (Fincher)
+24. Wild Horse Nine (McDonagh)
 
 *Tier 2*
 1. Once Upon a Time in Harlem (Greaves)
@@ -69,8 +67,6 @@
 ### By release date
 
 **October**
-- Oct 2 — Digger (Iñárritu) [T1]
-- Oct 4 — Clarissa (Esiri Bros) [T1]
 - Oct 9 — Fjord (Mungiu) [T1]
 - Oct 9 — Your Mother, Your Mother, Your Mother (Tariq) [T2]
 - Oct 9 — Animals (Affleck) [T2]
