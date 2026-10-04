@@ -17,12 +17,12 @@
 12. **Nostalghia** (Tarkovsky, 1983)
 13. **The Sacrifice** (Tarkovsky, 1986)
 14. **Solaris** (Tarkovsky, 1972)
-15. **Days of Heaven** (Malick, 1978)
-16. **The Tree of Life** (Malick, 2011)
+15. **The Double Life of Véronique** (Kieślowski, 1991)
+16. **The Modernity Trilogy (L'Avventura, La Notte, L'Eclisse)** (Antonioni, 1960–62)
 17. **Jeanne Dielman** (Akerman, 1975)
 18. **L'Atalante** (Vigo, 1934)
-19. **The Double Life of Véronique** (Kieślowski, 1991)
-20. **The Modernity Trilogy (L'Avventura, La Notte, L'Eclisse)** (Antonioni, 1960–62)
+19. **Days of Heaven** (Malick, 1978)
+20. **The Tree of Life** (Malick, 2011)
 
 ## Tier 2
 
