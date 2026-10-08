@@ -38,8 +38,8 @@
 5. Wildwood (Knight)
 6. Backrooms (Parsons) ✅
 7. The Drama (Borgli) ✅
-8.  Josephine (de Araújo)
-9.  Behemoth! (Gilroy)
+8. Josephine (de Araújo)
+9. Behemoth! (Gilroy)
 10. Ray Gunn (Bird)
 11. Klara and the Sun (Waititi)
 12. Toy Story 5 (Stanton) ✅
@@ -68,11 +68,11 @@
 
 **October**
 - Oct 9 — Fjord (Mungiu) [T1]
-- Oct 9 — Your Mother, Your Mother, Your Mother (Tariq) [T2]
 - Oct 9 — Animals (Affleck) [T2]
 - Oct 9 — Other Mommy (Savage) [T2]
 - Oct 16 — Once Upon a Time in Harlem (Greaves) [T2]
 - Oct 16 — Sacrifice (Gavras) [T2]
+- Oct 16 — Your Mother, Your Mother, Your Mother (Tariq) [T2]
 - Oct 23 — Fatherland (Pawlikowski) [T1]
 - Oct 23 — The Man I Love (Sachs) [T1]
 - Oct 23 — Wildwood (Knight) [T2]
