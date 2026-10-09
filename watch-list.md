@@ -51,25 +51,20 @@
 18. Obsession (Barker) ✅
 19. Famous (Hill)
 20. Your Mother, Your Mother, Your Mother (Tariq)
-21. Animals (Affleck)
-22. Whitney Springs (Parker)
-23. 14th (DuVernay)
-24. Project Hail Mary (Lord & Miller) ✅
-25. Victorian Psycho (Wigon)
-26. 28 Years Later: The Bone Temple (DaCosta) ✅
-27. A Talent for Murder (Corbijn)
-28. Madden (Russell)
-29. Other Mommy (Savage)
-30. How to Rob a Bank (Leitch)
-31. The Mosquito Bowl (Berg)
-32. Wizards! (Michôd)
+21. Whitney Springs (Parker)
+22. 14th (DuVernay)
+23. Project Hail Mary (Lord & Miller) ✅
+24. Victorian Psycho (Wigon)
+25. 28 Years Later: The Bone Temple (DaCosta) ✅
+26. A Talent for Murder (Corbijn)
+27. Madden (Russell)
+28. How to Rob a Bank (Leitch)
+29. The Mosquito Bowl (Berg)
+30. Wizards! (Michôd)
 
 ### By release date
 
 **October**
-- Oct 9 — Fjord (Mungiu) [T1]
-- Oct 9 — Animals (Affleck) [T2]
-- Oct 9 — Other Mommy (Savage) [T2]
 - Oct 16 — Once Upon a Time in Harlem (Greaves) [T2]
 - Oct 16 — Sacrifice (Gavras) [T2]
 - Oct 16 — Your Mother, Your Mother, Your Mother (Tariq) [T2]
@@ -114,6 +109,7 @@
 - Out of This World (Serra) [T1]
 - Look Back (Kore-eda) [T1]
 - Zi (Kogonada) [T1]
+- Fjord (Mungiu) [T1]
 - A Long Winter (Haigh) [T1]
 - The Entertainment System Is Down (Östlund) [T1]
 - Cry to Heaven (Ford) [T2]
