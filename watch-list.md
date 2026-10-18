@@ -39,25 +39,24 @@
 6. The Drama (Borgli) ✅
 7. Josephine (de Araújo)
 8. Behemoth! (Gilroy)
-9.  Ray Gunn (Bird)
-10. Klara and the Sun (Waititi)
-11. Toy Story 5 (Stanton) ✅
-12. The Debut (Eisenberg)
-13. Sweetsick (Birch)
-14. Club Kid (Firstman)
-15. The Gallerist (Yan)
-16. Obsession (Barker) ✅
-17. Famous (Hill)
-18. Whitney Springs (Parker)
-19. 14th (DuVernay)
-20. Project Hail Mary (Lord & Miller) ✅
-21. Victorian Psycho (Wigon)
-22. 28 Years Later: The Bone Temple (DaCosta) ✅
-23. A Talent for Murder (Corbijn)
-24. Madden (Russell)
-25. How to Rob a Bank (Leitch)
-26. The Mosquito Bowl (Berg)
-27. Wizards! (Michôd)
+9. Ray Gunn (Bird)
+10. Toy Story 5 (Stanton) ✅
+11. The Debut (Eisenberg)
+12. Sweetsick (Birch)
+13. Club Kid (Firstman)
+14. The Gallerist (Yan)
+15. Obsession (Barker) ✅
+16. Famous (Hill)
+17. Whitney Springs (Parker)
+18. 14th (DuVernay)
+19. Project Hail Mary (Lord & Miller) ✅
+20. Victorian Psycho (Wigon)
+21. 28 Years Later: The Bone Temple (DaCosta) ✅
+22. A Talent for Murder (Corbijn)
+23. Madden (Russell)
+24. How to Rob a Bank (Leitch)
+25. The Mosquito Bowl (Berg)
+26. Wizards! (Michôd)
 
 ### By release date
 
@@ -65,7 +64,6 @@
 - Oct 23 — Fatherland (Pawlikowski) [T1]
 - Oct 23 — The Man I Love (Sachs) [T1]
 - Oct 23 — Wildwood (Knight) [T2]
-- Oct 23 — Klara and the Sun (Waititi) [T2]
 - Oct 30 — Queen at Sea (Hammer) [T1]
 
 **November**
