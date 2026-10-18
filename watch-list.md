@@ -31,43 +31,37 @@
 24. Wild Horse Nine (McDonagh)
 
 *Tier 2*
-1. Once Upon a Time in Harlem (Greaves)
-2. Cry to Heaven (Ford)
-3. Alpha Gang (Zellner Bros)
-4. Elsinore (Stone)
-5. Wildwood (Knight)
-6. Backrooms (Parsons) ✅
-7. The Drama (Borgli) ✅
-8. Josephine (de Araújo)
-9. Behemoth! (Gilroy)
-10. Ray Gunn (Bird)
-11. Klara and the Sun (Waititi)
-12. Toy Story 5 (Stanton) ✅
-13. The Debut (Eisenberg)
-14. Sacrifice (Gavras)
-15. Sweetsick (Birch)
-16. Club Kid (Firstman)
-17. The Gallerist (Yan)
-18. Obsession (Barker) ✅
-19. Famous (Hill)
-20. Your Mother, Your Mother, Your Mother (Tariq)
-21. Whitney Springs (Parker)
-22. 14th (DuVernay)
-23. Project Hail Mary (Lord & Miller) ✅
-24. Victorian Psycho (Wigon)
-25. 28 Years Later: The Bone Temple (DaCosta) ✅
-26. A Talent for Murder (Corbijn)
-27. Madden (Russell)
-28. How to Rob a Bank (Leitch)
-29. The Mosquito Bowl (Berg)
-30. Wizards! (Michôd)
+1. Cry to Heaven (Ford)
+2. Alpha Gang (Zellner Bros)
+3. Elsinore (Stone)
+4. Wildwood (Knight)
+5. Backrooms (Parsons) ✅
+6. The Drama (Borgli) ✅
+7. Josephine (de Araújo)
+8. Behemoth! (Gilroy)
+9.  Ray Gunn (Bird)
+10. Klara and the Sun (Waititi)
+11. Toy Story 5 (Stanton) ✅
+12. The Debut (Eisenberg)
+13. Sweetsick (Birch)
+14. Club Kid (Firstman)
+15. The Gallerist (Yan)
+16. Obsession (Barker) ✅
+17. Famous (Hill)
+18. Whitney Springs (Parker)
+19. 14th (DuVernay)
+20. Project Hail Mary (Lord & Miller) ✅
+21. Victorian Psycho (Wigon)
+22. 28 Years Later: The Bone Temple (DaCosta) ✅
+23. A Talent for Murder (Corbijn)
+24. Madden (Russell)
+25. How to Rob a Bank (Leitch)
+26. The Mosquito Bowl (Berg)
+27. Wizards! (Michôd)
 
 ### By release date
 
 **October**
-- Oct 16 — Once Upon a Time in Harlem (Greaves) [T2]
-- Oct 16 — Sacrifice (Gavras) [T2]
-- Oct 16 — Your Mother, Your Mother, Your Mother (Tariq) [T2]
 - Oct 23 — Fatherland (Pawlikowski) [T1]
 - Oct 23 — The Man I Love (Sachs) [T1]
 - Oct 23 — Wildwood (Knight) [T2]
