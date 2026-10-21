@@ -34,65 +34,59 @@
 1. Cry to Heaven (Ford)
 2. Alpha Gang (Zellner Bros)
 3. Elsinore (Stone)
-4. Wildwood (Knight)
-5. Backrooms (Parsons) ✅
-6. The Drama (Borgli) ✅
-7. Josephine (de Araújo)
-8. Behemoth! (Gilroy)
-9. Ray Gunn (Bird)
-10. Toy Story 5 (Stanton) ✅
-11. The Debut (Eisenberg)
-12. Sweetsick (Birch)
-13. Club Kid (Firstman)
-14. The Gallerist (Yan)
-15. Obsession (Barker) ✅
-16. Famous (Hill)
-17. Whitney Springs (Parker)
-18. 14th (DuVernay)
-19. Project Hail Mary (Lord & Miller) ✅
-20. Victorian Psycho (Wigon)
-21. 28 Years Later: The Bone Temple (DaCosta) ✅
-22. A Talent for Murder (Corbijn)
-23. Madden (Russell)
-24. How to Rob a Bank (Leitch)
-25. The Mosquito Bowl (Berg)
-26. Wizards! (Michôd)
+4. Backrooms (Parsons) ✅
+5. The Drama (Borgli) ✅
+6. Josephine (de Araújo)
+7. Behemoth! (Gilroy)
+8. Ray Gunn (Bird)
+9.  Toy Story 5 (Stanton) ✅
+10. The Debut (Eisenberg)
+11. Sweetsick (Birch)
+12. Club Kid (Firstman)
+13. The Gallerist (Yan)
+14. Obsession (Barker) ✅
+15. Famous (Hill)
+16. Whitney Springs (Parker)
+17. 14th (DuVernay)
+18. Project Hail Mary (Lord & Miller) ✅
+19. Victorian Psycho (Wigon)
+20. 28 Years Later: The Bone Temple (DaCosta) ✅
+21. A Talent for Murder (Corbijn)
+22. Madden (Russell)
+23. How to Rob a Bank (Leitch)
+24. The Mosquito Bowl (Berg)
+25. Wizards! (Michôd)
 
 ### By release date
 
-**October**
-- Oct 23 — Fatherland (Pawlikowski) [T1]
-- Oct 23 — The Man I Love (Sachs) [T1]
-- Oct 23 — Wildwood (Knight) [T2]
-- Oct 30 — Queen at Sea (Hammer) [T1]
-
 **November**
-- Nov 4 — Club Kid (Firstman) [T2]
 - Nov 6 — Possible Love (Lee Chang-dong) [T1]
+- Nov 6 — Queen at Sea (Hammer) [T1]
 - Nov 6 — Wild Horse Nine (McDonagh) [T1]
+- Nov 6 — Club Kid (Firstman) [T2]
+- Nov 13 — Bitter Christmas (Almodóvar) [T1]
 - Nov 13 — Victorian Psycho (Wigon) [T2]
 - Nov 13 — How to Rob a Bank (Leitch) [T2]
-- Nov 18 — Gentle Monster (Kreutzer) [T1]
-- Nov 18 — Madden (Russell) [T2]
 - Nov 20 — Minotaur (Zvyagintsev) [T1]
 - Nov 20 — Paper Tiger (Gray) [T1]
+- Nov 20 — Gentle Monster (Kreutzer) [T1]
 - Nov 20 — Elsinore (Stone) [T2]
 - Nov 20 — A Talent for Murder (Corbijn) [T2]
-- Nov 25 — All of a Sudden (Hamaguchi) [T1]
-- Nov 25 — Bitter Christmas (Almodóvar) [T1]
-- Nov 25 — The Further Mis-Adventures of Cliff Booth (Fincher) [T1]
+- Nov 20 — Madden (Russell) [T2]
+- Nov 27 — All of a Sudden (Hamaguchi) [T1]
+- Nov 27 — The Further Mis-Adventures of Cliff Booth (Fincher) [T1]
 - Nov 27 — The Mosquito Bowl (Berg) [T2]
 
 **December**
-- Dec 2 — La Bola Negra (Calvo & Ambrossi) [T1]
 - Dec 4 — Tender Loving Care (Leigh) [T1]
+- Dec 4 — La Bola Negra (Calvo & Ambrossi) [T1]
 - Dec 4 — Josephine (de Araújo) [T2]
 - Dec 4 — Behemoth! (Gilroy) [T2]
 - Dec 4 — The Gallerist (Yan) [T2]
 - Dec 4 — 14th (DuVernay) [T2]
-- Dec 11 — The Debut (Eisenberg) [T2]
 - Dec 18 — Dune: Part Three (Villeneuve) [T1]
 - Dec 18 — Ray Gunn (Bird) [T2]
+- Dec 18 — The Debut (Eisenberg) [T2]
 - Dec 25 — Werwulf (Eggers) [T1]
 - Dec 25 — Coward (Dhont) [T1]
 
@@ -100,10 +94,12 @@
 - The Way of the Wind (Malick) [T1]
 - Out of This World (Serra) [T1]
 - Look Back (Kore-eda) [T1]
+- Fatherland (Pawlikowski) [T1]
 - Zi (Kogonada) [T1]
 - Fjord (Mungiu) [T1]
 - A Long Winter (Haigh) [T1]
 - The Entertainment System Is Down (Östlund) [T1]
+- The Man I Love (Sachs) [T1]
 - Cry to Heaven (Ford) [T2]
 - Alpha Gang (Zellner Bros) [T2]
 - Sweetsick (Birch) [T2]
