@@ -22,13 +22,14 @@
 15. Coward (Dhont)
 16. Bitter Christmas (Almodóvar)
 17. The Entertainment System Is Down (Östlund)
-18. The Man I Love (Sachs)
-19. Paper Tiger (Gray)
-20. La Bola Negra (Calvo & Ambrossi)
-21. Gentle Monster (Kreutzer)
-22. Dune: Part Three (Villeneuve)
-23. The Further Mis-Adventures of Cliff Booth (Fincher)
-24. Wild Horse Nine (McDonagh)
+18. Clarissa (Esiri Bros)
+19. The Man I Love (Sachs)
+20. Paper Tiger (Gray)
+21. La Bola Negra (Calvo & Ambrossi)
+22. Gentle Monster (Kreutzer)
+23. Dune: Part Three (Villeneuve)
+24. The Further Mis-Adventures of Cliff Booth (Fincher)
+25. Wild Horse Nine (McDonagh)
 
 *Tier 2*
 1. Cry to Heaven (Ford)
@@ -99,6 +100,7 @@
 - Fjord (Mungiu) [T1]
 - A Long Winter (Haigh) [T1]
 - The Entertainment System Is Down (Östlund) [T1]
+- Clarissa (Esiri Bros) [T1]
 - The Man I Love (Sachs) [T1]
 - Cry to Heaven (Ford) [T2]
 - Alpha Gang (Zellner Bros) [T2]
