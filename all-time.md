@@ -160,3 +160,5 @@
 144. **The Apartment** (Wilder, 1960)
 145. **All About Eve** (Mankiewicz, 1950)
 146. **The Lady Eve** (Sturges, 1941)
+147. **Apocalypse Now** (Coppola, 1979)
+148. **Taxi Driver** (Scorsese, 1976)
