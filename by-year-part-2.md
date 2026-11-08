@@ -5,21 +5,24 @@
 
 **Wes:**
 1. Teenage Sex and Death at Camp Miasma (Schoenbrun) A-
-2. Backrooms (Parsons) B+
-3. The Drama (Borgli) B+
-4. Toy Story 5 (Stanton) B+
-5. Obsession (Barker) B
-6. Project Hail Mary (Lord & Miller) B
-7. 28 Years Later: The Bone Temple (DaCosta) B
-8. I Love Boosters (Riley) B-
+2. Wild Horse Nine (McDonagh) A-
+3. Backrooms (Parsons) B+
+4. The Drama (Borgli) B+
+5. Toy Story 5 (Stanton) B+
+6. Obsession (Barker) B
+7. Project Hail Mary (Lord & Miller) B
+8. 28 Years Later: The Bone Temple (DaCosta) B
+9. I Love Boosters (Riley) B-
 
 **Val:**
-1. Backrooms (Kane Parsons) A-
-2. The Drama (Kristoffer Borgli) B+
-3. Toy Story 5 (Andrew Stanton) B+
-4. Obsession (Barker) B+
-5. Project Hail Mary (Lord & Miller) B
-6. 28 Years Later: The Bone Temple (Nia DaCosta) B
+1. Wild Horse Nine (McDonagh) A-
+2. Teenage Sex and Death at Camp Miasma (Schoenbrun) A-
+3. Backrooms (Kane Parsons) A-
+4. The Drama (Kristoffer Borgli) B+
+5. Toy Story 5 (Andrew Stanton) B+
+6. Obsession (Barker) B+
+7. Project Hail Mary (Lord & Miller) B
+8. 28 Years Later: The Bone Temple (Nia DaCosta) B
 
 ### 2025
 
