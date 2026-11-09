@@ -22,6 +22,7 @@
 6. The Power of the Dog (2021)
 
 ## 2010s
+
 1. The Turin Horse (2011)
 2. Uncle Boonmee Who Can Recall His Past Lives (2010)
 3. The Tree of Life (2011)
@@ -44,6 +45,7 @@
 20. Roma (2018)
 
 ## 2000s
+
 1. Werckmeister Harmonies (2000)
 2. Yi Yi (2000)
 3. The 1960s Trilogy (Wong Kar-Wai, 1990–2004)
@@ -66,6 +68,7 @@
 20. Paranoid Park (2007)
 
 ## 1990s
+
 1. Sátántangó (1994)
 2. The Double Life of Véronique (1991)
 3. Taste of Cherry (1997)
@@ -88,6 +91,7 @@
 20. Boogie Nights (1997)
 
 ## 1980s
+
 1. Nostalghia (1983)
 2. The Sacrifice (1986)
 3. Wings of Desire (1987)
@@ -110,6 +114,7 @@
 20. Raising Arizona (1987)
 
 ## 1970s
+
 1. Mirror (1975)
 2. Stalker (1979)
 3. Solaris (1972)
@@ -142,6 +147,7 @@
 30. F for Fake (1973)
 
 ## 1960s
+
 1. Andrei Rublev (1966)
 2. Au hasard Balthazar (1966)
 3. The Modernity Trilogy (1960–62)
@@ -174,6 +180,7 @@
 30. The Apartment (1960)
 
 ## 1950s
+
 1. Ordet (1955)
 2. Noriko Trilogy (1953)
 3. Sansho the Bailiff (1954)
@@ -206,6 +213,7 @@
 30. Johnny Guitar (1954)
 
 ## 1940s
+
 1. Day of Wrath (1943)
 2. Black Narcissus (1947)
 3. The Red Shoes (1948)
@@ -228,6 +236,7 @@
 20. The Treasure of the Sierra Madre (1948)
 
 ## 1930s
+
 1. L'Atalante (1934)
 2. Earth (1930)
 3. City Lights (1931)
@@ -240,6 +249,7 @@
 10. The Scarlet Empress (1934)
 
 ## 1920s
+
 1. The Passion of Joan of Arc (1928)
 2. Sunrise (1927)
 3. The Last Laugh (1924)
