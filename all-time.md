@@ -74,7 +74,7 @@
 66. **The Last Laugh** (Murnau, 1924)
 
 ## Tier 3
-*Radically inventive but not in the manner above.*
+*Extremely inventive but not in the manner above.*
 
 67. **Hiroshima mon amour** (Resnais, 1959)
 68. **Un Chien Andalou** (Buñuel & Dalí, 1929)

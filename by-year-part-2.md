@@ -16,15 +16,16 @@
 10. 28 Years Later: The Bone Temple (DaCosta) B
 
 **Val:**
-1. Possible Love (Lee Chang-dong) A
-2. Wild Horse Nine (McDonagh) A-
-3. Teenage Sex and Death at Camp Miasma (Schoenbrun) A-
-4. Backrooms (Kane Parsons) A-
-5. The Drama (Kristoffer Borgli) B+
-6. Toy Story 5 (Andrew Stanton) B+
-7. Obsession (Barker) B+
-8. Project Hail Mary (Lord & Miller) B
-9. 28 Years Later: The Bone Temple (Nia DaCosta) B
+1. Wild Horse Nine (McDonagh) A
+2. Possible Love (Lee Chang-dong) A
+3. La Bola Negra (Calvo & Ambrossi) A-
+4. Teenage Sex and Death at Camp Miasma (Schoenbrun) A-
+5. Backrooms (Kane Parsons) A-
+6. The Drama (Kristoffer Borgli) B+
+7. Toy Story 5 (Andrew Stanton) B+
+8. Obsession (Barker) B+
+9. Project Hail Mary (Lord & Miller) B
+10. 28 Years Later: The Bone Temple (Nia DaCosta) B
 
 ### 2025
 
