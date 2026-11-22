@@ -8,12 +8,13 @@
 2. Teenage Sex and Death at Camp Miasma (Schoenbrun) A-
 3. La Bola Negra (Calvo & Ambrossi) A-
 4. Wild Horse Nine (McDonagh) A-
-5. Backrooms (Parsons) B+
-6. The Drama (Borgli) B+
-7. Toy Story 5 (Stanton) B+
-8. Obsession (Barker) B
-9. Project Hail Mary (Lord & Miller) B
-10. 28 Years Later: The Bone Temple (DaCosta) B
+5. Gentle Monster (Kreutzer) B+
+6. Backrooms (Parsons) B+
+7. The Drama (Borgli) B+
+8. Toy Story 5 (Stanton) B+
+9. Obsession (Barker) B
+10. Project Hail Mary (Lord & Miller) B
+11. 28 Years Later: The Bone Temple (DaCosta) B
 
 **Val:**
 1. Wild Horse Nine (McDonagh) A
