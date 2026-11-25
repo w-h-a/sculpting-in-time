@@ -127,9 +127,9 @@
 ## 1970s
 
 1. Mirror, Tarkovsky, 1975
-2. Jeanne Dielman, Akerman, 1975
-3. Stalker, Tarkovsky, 1979
-4. Solaris, Tarkovsky, 1972
+2. Stalker, Tarkovsky, 1979
+3. Solaris, Tarkovsky, 1972
+4. Jeanne Dielman, Akerman, 1975
 5. Eraserhead, Lynch, 1977
 6. Days of Heaven, Malick, 1978
 7. The Passenger, Antonioni, 1975
