@@ -59,13 +59,13 @@
 **Wes:**
 1. Evil Does Not Exist (Hamaguchi)
 2. I Saw the TV Glow (Schoenbrun)
-3. Nosferatu (Eggers)
-4. The Substance (Fargeat)
-5. The Room Next Door (Almodóvar)
-6. Civil War (Garland)
-7. Dune: Part Two (Villeneuve)
+3. Dune: Part Two (Villeneuve)
+4. Nosferatu (Eggers)
+5. Furiosa (Miller)
+6. The Substance (Fargeat)
+7. Civil War (Garland)
 8. Love Lies Bleeding (Glass)
-9. Furiosa (Miller)
+9. The Room Next Door (Almodóvar)
 10. Drive-Away Dolls (Coen)
 
 **Val:**
@@ -83,15 +83,15 @@
 ### 2023
 
 **Wes:**
-1. Perfect Days (Wenders)
-2. The Zone of Interest (Glazer)
+1. The Zone of Interest (Glazer)
+2. Perfect Days (Wenders)
 3. The Boy and the Heron (Miyazaki)
-4. Past Lives (Song)
-5. All of Us Strangers (Haigh)
-6. May December (Haynes)
-7. Anatomy of a Fall (Triet)
+4. May December (Haynes)
+5. Asteroid City & Roald Dahl Shorts (Wes Anderson)
+6. All of Us Strangers (Haigh)
+7. Past Lives (Song)
 8. Poor Things (Lanthimos)
-9. Asteroid City & Roald Dahl Shorts (Wes Anderson)
+9. Anatomy of a Fall (Triet)
 10. Barbie (Gerwig)
 
 **Val:**
@@ -110,15 +110,15 @@
 
 **Wes:**
 1. TÁR (Field)
-2. The Worst Person in the World (Trier)
-3. The Banshees of Inisherin (McDonagh)
-4. Bardo (Iñárritu)
-5. Armageddon Time (Gray)
-6. Decision to Leave (Park Chan-wook)
-7. Men (Garland)
+2. Decision to Leave (Park Chan-wook)
+3. Top Gun: Maverick (Kosinski)
+4. Men (Garland)
+5. The Banshees of Inisherin (McDonagh)
+6. The Worst Person in the World (Trier)
+7. Bardo (Iñárritu)
 8. The Whale (Aronofsky)
 9. Glass Onion (Johnson)
-10. Top Gun: Maverick (Kosinski)
+10. Armageddon Time (Gray)
 
 **Val:**
 1. The Banshees of Inisherin (McDonagh)
@@ -135,16 +135,16 @@
 ### 2021
 
 **Wes:**
-1. The Power of the Dog (Campion)
-2. After Yang (Kogonada)
+1. After Yang (Kogonada)
+2. The Power of the Dog (Campion)
 3. Spencer (Larraín)
-4. C'mon C'mon (Mills)
-5. Licorice Pizza (P.T. Anderson)
-6. The French Dispatch (Wes Anderson)
-7. Parallel Mothers (Almodóvar)
-8. The Card Counter (Schrader)
-9. The Matrix Resurrections (Wachowski)
-10. Last Night in Soho (Wright)
+4. The French Dispatch (Wes Anderson)
+5. The Matrix Resurrections (Wachowski)
+6. Licorice Pizza (P.T. Anderson)
+7. C'mon C'mon (Mills)
+8. Last Night in Soho (Wright)
+9. The Card Counter (Schrader)
+10. Parallel Mothers (Almodóvar)
 
 **Val:**
 1. The Power Of The Dog (Campion)
@@ -161,15 +161,15 @@
 ### 2020
 
 **Wes:**
-1. First Cow (Reichardt)
-2. Nomadland (Zhao)
-3. I'm Thinking of Ending Things (Kaufman)
-4. Small Axe (McQueen)
-5. His House (Weekes)
-6. Kajillionaire (July)
-7. Mank (Fincher)
-8. News of the World (Greengrass)
-9. Tenet (Nolan)
+1. Small Axe (McQueen)
+2. First Cow (Reichardt)
+3. Tenet (Nolan)
+4. I'm Thinking of Ending Things (Kaufman)
+5. Nomadland (Zhao)
+6. His House (Weekes)
+7. Kajillionaire (July)
+8. Mank (Fincher)
+9. News of the World (Greengrass)
 10. Freaky (Landon)
 
 **Val:**
