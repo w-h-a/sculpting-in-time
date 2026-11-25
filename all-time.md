@@ -4,22 +4,22 @@
 *Favorite use of time and attention.*
 
 1. **Mirror** (Tarkovsky, 1975)
-2. **2001: A Space Odyssey** (Kubrick, 1968)
-3. **Jeanne Dielman** (Akerman, 1975)
+2. **Stalker** (Tarkovsky, 1979)
+3. **2001: A Space Odyssey** (Kubrick, 1968)
 4. **Noriko Trilogy (Late Spring, Early Summer, and Tokyo Story)** (Ozu, 1949–1953)
-5. **Stalker** (Tarkovsky, 1979)
-6. **Andrei Rublev** (Tarkovsky, 1966)
+5. **Andrei Rublev** (Tarkovsky, 1966)
+6. **Solaris** (Tarkovsky, 1972)
 7. **The Turin Horse** (Tarr, 2011)
 8. **Werckmeister Harmonies** (Tarr, 2000)
 9. **Sátántangó** (Tarr, 1994)
 10. **The Modernity Trilogy (L'Avventura, La Notte, L'Eclisse)** (Antonioni, 1960–62)
-11. **A Man Escaped** (Bresson, 1956)
-12. **The 1960s Trilogy (Days of Being Wild, In the Mood for Love, 2046)** (Wong Kar-Wai, 1990–2004)
-13. **Chungking Express / Fallen Angels** (Wong Kar-Wai, 1994–95)
-14. **Solaris** (Tarkovsky, 1972)
+11. **The 1960s Trilogy (Days of Being Wild, In the Mood for Love, 2046)** (Wong Kar-Wai, 1990–2004)
+12. **Chungking Express / Fallen Angels** (Wong Kar-Wai, 1994–95)
 
 ## Tier 2
 
+13. **Jeanne Dielman** (Akerman, 1975)
+14. **A Man Escaped** (Bresson, 1956)
 15. **Twin Peaks: The Return** (Lynch, 2017)
 16. **Earth** (Dovzhenko, 1930)
 17. **Playtime** (Tati, 1967)
@@ -112,7 +112,7 @@
 100. **Band of Outsiders** (Godard, 1964)
 
 ## Tier 4
-*Other superbly crafted films.*
+*Other well-crafted films.*
 
 101. **Yojimbo** (Kurosawa, 1961)
 102. **La Dolce Vita** (Fellini, 1960)
