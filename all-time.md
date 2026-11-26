@@ -8,13 +8,13 @@
 3. **2001: A Space Odyssey** (Kubrick, 1968)
 4. **Noriko Trilogy (Late Spring, Early Summer, and Tokyo Story)** (Ozu, 1949–1953)
 5. **Andrei Rublev** (Tarkovsky, 1966)
-6. **Solaris** (Tarkovsky, 1972)
-7. **The Turin Horse** (Tarr, 2011)
-8. **Werckmeister Harmonies** (Tarr, 2000)
-9. **Sátántangó** (Tarr, 1994)
-10. **The Modernity Trilogy (L'Avventura, La Notte, L'Eclisse)** (Antonioni, 1960–62)
-11. **The 1960s Trilogy (Days of Being Wild, In the Mood for Love, 2046)** (Wong Kar-Wai, 1990–2004)
-12. **Chungking Express / Fallen Angels** (Wong Kar-Wai, 1994–95)
+6. **The Turin Horse** (Tarr, 2011)
+7. **Werckmeister Harmonies** (Tarr, 2000)
+8. **Sátántangó** (Tarr, 1994)
+9. **The Modernity Trilogy (L'Avventura, La Notte, L'Eclisse)** (Antonioni, 1960–62)
+10. **The 1960s Trilogy (Days of Being Wild, In the Mood for Love, 2046)** (Wong Kar-Wai, 1990–2004)
+11. **Chungking Express / Fallen Angels** (Wong Kar-Wai, 1994–95)
+12. **Solaris** (Tarkovsky, 1972)
 
 ## Tier 2
 
