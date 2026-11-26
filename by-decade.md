@@ -265,11 +265,11 @@
 8. My Darling Clementine, Ford, 1946
 9. Notorious, Hitchcock, 1946
 10. Brief Encounter, Lean, 1945
-11. His Girl Friday, Hawks, 1940
-12. Double Indemnity, Wilder, 1944
-13. The Great Dictator, Chaplin, 1940
+11. Double Indemnity, Wilder, 1944
+12. The Great Dictator, Chaplin, 1940
+13. Children of Paradise, Carné, 1945
 14. The Big Sleep, Hawks, 1946
-15. Children of Paradise, Carné, 1945
+15. His Girl Friday, Hawks, 1940
 16. Red River, Hawks, 1948
 17. Beauty and the Beast, Cocteau, 1946
 18. The Lady Eve, Sturges, 1941
