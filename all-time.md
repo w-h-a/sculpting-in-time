@@ -75,15 +75,15 @@
 67. **The New World** (Malick, 2005)
 68. **4 Months, 3 Weeks and 2 Days** (Mungiu, 2008)
 69. **Yi Yi** (Yang, 2000)
-70. **Paris, Texas** (Wenders, 1984)
+70. **The Last Laugh** (Murnau, 1924)
 
 ## Tier 3
 *Extremely inventive but not in the manner above.*
 
-71. **The Last Laugh** (Murnau, 1924)
-72. **Man with a Movie Camera** (Vertov, 1929)
-73. **La Jetée** (Marker, 1962)
-74. **Hiroshima mon amour** (Resnais, 1959)
+71. **Man with a Movie Camera** (Vertov, 1929)
+72. **La Jetée** (Marker, 1962)
+73. **Hiroshima mon amour** (Resnais, 1959)
+74. **Last Year at Marienbad** (Resnais, 1961)
 75. **Persona** (Bergman, 1966)
 76. **Breathless** (Godard, 1960)
 77. **The Passion of Joan of Arc** (Dreyer, 1928)

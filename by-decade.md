@@ -117,19 +117,19 @@
 2. The Sacrifice, Tarkovsky, 1986
 3. Damnation, Tarr, 1988
 4. Wings of Desire, Wenders, 1987
-5. Paris, Texas, Wenders, 1984
-6. Stranger Than Paradise, Jarmusch, 1984
-7. Do the Right Thing, Lee, 1989
-8. Blue Velvet, Lynch, 1986
-9. My Neighbor Totoro, Miyazaki, 1988
-10. Dekalog, Kieślowski, 1988
-11. The Shining, Kubrick, 1980
-12. Blade Runner, Scott, 1982
-13. Ran, Kurosawa, 1985
-14. Fanny and Alexander, Bergman, 1982
-15. Fitzcarraldo, Herzog, 1982
-16. 28 Up, Apted, 1985
-17. Vagabond, Varda, 1985
+5. Stranger Than Paradise, Jarmusch, 1984
+6. Do the Right Thing, Lee, 1989
+7. Blue Velvet, Lynch, 1986
+8. My Neighbor Totoro, Miyazaki, 1988
+9. Dekalog, Kieślowski, 1988
+10. The Shining, Kubrick, 1980
+11. Blade Runner, Scott, 1982
+12. Ran, Kurosawa, 1985
+13. Fanny and Alexander, Bergman, 1982
+14. Fitzcarraldo, Herzog, 1982
+15. 28 Up, Apted, 1985
+16. Vagabond, Varda, 1985
+17. Paris, Texas, Wenders, 1984
 18. Sans Soleil, Marker, 1983
 19. The Thin Blue Line, Morris, 1988
 20. Koyaanisqatsi, Reggio, 1983
@@ -143,6 +143,7 @@
 28. Raising Arizona, Coen, 1987
 29. Hannah and Her Sisters, Allen, 1986
 30. Cinema Paradiso, Tornatore, 1988
+
 
 ## 1970s
 
@@ -203,21 +204,21 @@
 12. End of Summer, Ozu, 1961
 13. Late Autumn, Ozu, 1960
 14. La Jetée, Marker, 1962
-15. Persona, Bergman, 1966
-16. Breathless, Godard, 1960
-17. The Man with No Name Trilogy, Leone, 1964–66
-18. 8½, Fellini, 1963
-19. Vivre sa vie, Godard, 1962
-20. Contempt, Godard, 1963
-21. Band of Outsiders, Godard, 1964
-22. Yojimbo, Kurosawa, 1961
-23. La Dolce Vita, Fellini, 1960
-24. Jules and Jim, Truffaut, 1962
-25. The Battle of Algiers, Pontecorvo, 1966
-26. The Leopard, Visconti, 1963
-27. The Man Who Shot Liberty Valance, Ford, 1962
-28. The Red and the White, Jancsó, 1967
-29. Cléo from 5 to 7, Varda, 1962
+15. Last Year at Marienbad, Resnais, 1961
+16. Persona, Bergman, 1966
+17. Breathless, Godard, 1960
+18. The Man with No Name Trilogy, Leone, 1964–66
+19. 8½, Fellini, 1963
+20. Vivre sa vie, Godard, 1962
+21. Contempt, Godard, 1963
+22. Band of Outsiders, Godard, 1964
+23. Yojimbo, Kurosawa, 1961
+24. La Dolce Vita, Fellini, 1960
+25. Jules and Jim, Truffaut, 1962
+26. The Battle of Algiers, Pontecorvo, 1966
+27. The Leopard, Visconti, 1963
+28. The Man Who Shot Liberty Valance, Ford, 1962
+29. The Red and the White, Jancsó, 1967
 30. Gertrud, Dreyer, 1964
 
 ## 1950s
