@@ -37,7 +37,7 @@
 6. If Beale Street Could Talk (Jenkins)
 7. The Favourite (Lanthimos)
 8. Sorry to Bother You (Riley)
-9. Shoplifters (Koreeda)
+9. Shoplifters (Kore-eda)
 10. Support the Girls (Bujalski)
 
 **Val:**
@@ -45,7 +45,7 @@
 2. The Ballad of Buster Scruggs (Coen)
 3. A Long Day's Journey Into the Night (Bi Gan)
 4. The Favorite (Lanthimos)
-5. Shoplifters (Koreeda)
+5. Shoplifters (Kore-eda)
 6. Burning (Lee Chang-dong)
 7. If Beale Street Could Talk (Jenkins)
 8. Isle Of Dogs (Wes Anderson)
@@ -218,7 +218,7 @@
 ### 2008
 1. 4 Months, 3 Weeks and 2 Days (Mungiu)
 2. Waltz with Bashir (Folman)
-3. Still Walking (Koreeda)
+3. Still Walking (Kore-eda)
 4. Hunger (McQueen)
 5. Let the Right One In (Alfredson)
 6. The Dark Knight (Nolan)

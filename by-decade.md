@@ -88,41 +88,61 @@
 6. Dead Man, Jarmusch, 1995
 7. Happy Together, Wong, 1997
 8. Three Colors Trilogy, Kieślowski, 1993–94
-9. Breaking the Waves, von Trier, 1996
-10. Reservoir Dogs, Tarantino, 1992
-11. Eyes Wide Shut, Kubrick, 1999
-12. The Matrix, Wachowski siblings, 1999
-13. Princess Mononoke, Miyazaki, 1997
-14. Raise the Red Lantern, Zhang, 1991
-15. Short Cuts, Altman, 1993
-16. Barton Fink, Coen, 1991
-17. The Piano, Campion, 1993
-18. Fargo, Coen, 1996
-19. Boogie Nights, Anderson, 1997
-20. All About My Mother, Almodóvar, 1999
+9. The Puppetmaster, Hou Hsiao-hsien, 1993
+10. Close-Up, Kiarostami, 1990
+11. The Wind Will Carry Us, Kiarostami, 1999
+12. Flowers of Shanghai, Hou Hsiao-hsien, 1998
+13. Ghost in the Shell, Oshii, 1995
+14. Baraka, Fricke, 1992
+15. Maborosi, Kore-eda, 1995
+16. Lost Highway, Lynch, 1997
+17. Toy Story, Lasseter, 1995
+18. Crash, Cronenberg, 1996
+19. Breaking the Waves, von Trier, 1996
+20. Reservoir Dogs, Tarantino, 1992
+21. Eyes Wide Shut, Kubrick, 1999
+22. The Matrix, Wachowski siblings, 1999
+23. Princess Mononoke, Miyazaki, 1997
+24. Raise the Red Lantern, Zhang, 1991
+25. Short Cuts, Altman, 1993
+26. Barton Fink, Coen, 1991
+27. Boogie Nights, Anderson, 1997
+28. The Piano, Campion, 1993
+29. Fargo, Coen, 1996
+30. All About My Mother, Almodóvar, 1999
 
 ## 1980s
 
 1. Nostalghia, Tarkovsky, 1983
 2. The Sacrifice, Tarkovsky, 1986
-3. Wings of Desire, Wenders, 1987
-4. Paris, Texas, Wenders, 1984
-5. Do the Right Thing, Lee, 1989
-6. Blue Velvet, Lynch, 1986
-7. My Neighbor Totoro, Miyazaki, 1988
-8. Dekalog, Kieślowski, 1988
-9. The Shining, Kubrick, 1980
-10. Blade Runner, Scott, 1982
-11. Ran, Kurosawa, 1985
-12. Fanny and Alexander, Bergman, 1982
-13. Down by Law, Jarmusch, 1986
-14. The Elephant Man, Lynch, 1980
-15. Full Metal Jacket, Kubrick, 1987
-16. Blood Simple, Coen, 1984
-17. Crimes and Misdemeanors, Allen, 1989
-18. Raising Arizona, Coen, 1987
-19. Hannah and Her Sisters, Allen, 1986
-20. Cinema Paradiso, Tornatore, 1988
+3. Damnation, Tarr, 1988
+4. Wings of Desire, Wenders, 1987
+5. Paris, Texas, Wenders, 1984
+6. Stranger Than Paradise, Jarmusch, 1984
+7. Do the Right Thing, Lee, 1989
+8. Blue Velvet, Lynch, 1986
+9. My Neighbor Totoro, Miyazaki, 1988
+10. Dekalog, Kieślowski, 1988
+11. The Shining, Kubrick, 1980
+12. Blade Runner, Scott, 1982
+13. Ran, Kurosawa, 1985
+14. Fanny and Alexander, Bergman, 1982
+15. Fitzcarraldo, Herzog, 1982
+16. 28 Up, Apted, 1985
+17. Vagabond, Varda, 1985
+18. Sans Soleil, Marker, 1983
+19. The Thin Blue Line, Morris, 1988
+20. Koyaanisqatsi, Reggio, 1983
+21. Alice, Švankmajer, 1988
+22. Gates of Heaven, Morris, 1980
+23. Down by Law, Jarmusch, 1986
+24. The Elephant Man, Lynch, 1980
+25. Full Metal Jacket, Kubrick, 1987
+26. Blood Simple, Coen, 1984
+27. Crimes and Misdemeanors, Allen, 1989
+28. Raising Arizona, Coen, 1987
+29. Hannah and Her Sisters, Allen, 1986
+30. Cinema Paradiso, Tornatore, 1988
 
 ## 1970s
 
@@ -143,19 +163,29 @@
 15. Amarcord, Fellini, 1973
 16. Taxi Driver, Scorsese, 1976
 17. Spirit of the Beehive, Erice, 1973
-18. McCabe & Mrs. Miller, Altman, 1971
-19. F for Fake, Welles, 1973
-20. Don't Look Now, Roeg, 1973
-21. The Long Goodbye, Altman, 1973
-22. Discreet Charm of the Bourgeoisie, Buñuel, 1972
-23. The Godfather Part II, Coppola, 1974
-24. The Godfather, Coppola, 1972
-25. Chinatown, Polanski, 1974
-26. Annie Hall, Allen, 1977
-27. Dog Day Afternoon, Lumet, 1975
-28. Manhattan, Allen, 1979
-29. Day for Night, Truffaut, 1973
-30. Scenes from a Marriage, Bergman, 1973
+18. Gimme Shelter, Maysles, 1970
+19. 7 Plus Seven, Apted, 1970
+20. McCabe & Mrs. Miller, Altman, 1971
+21. Heart of Glass, Herzog, 1976
+22. Cries and Whispers, Bergman, 1972
+23. Tale of Tales, Norstein, 1979
+24. The Black Stallion, Ballard, 1979
+25. F for Fake, Welles, 1973
+26. That Obscure Object of Desire, Buñuel, 1977
+27. MASH, Altman, 1970
+28. Don't Look Now, Roeg, 1973
+29. Suspiria, Argento, 1977
+30. The Phantom of Liberty, Buñuel, 1974
+31. WR: Mysteries of the Organism, Makavejev, 1971
+32. The Man Who Fell to Earth, Roeg, 1976
+33. The Long Goodbye, Altman, 1973
+34. Discreet Charm of the Bourgeoisie, Buñuel, 1972
+35. The Godfather Part II, Coppola, 1974
+36. The Godfather, Coppola, 1972
+37. Chinatown, Polanski, 1974
+38. Annie Hall, Allen, 1977
+39. Dog Day Afternoon, Lumet, 1975
+40. Manhattan, Allen, 1979
 
 ## 1960s
 
@@ -186,9 +216,9 @@
 25. The Battle of Algiers, Pontecorvo, 1966
 26. The Leopard, Visconti, 1963
 27. The Man Who Shot Liberty Valance, Ford, 1962
-28. The Apartment, Wilder, 1960
-29. High and Low, Kurosawa, 1963
-30. Belle de Jour, Buñuel, 1967
+28. The Red and the White, Jancsó, 1967
+29. Cléo from 5 to 7, Varda, 1962
+30. Gertrud, Dreyer, 1964
 
 ## 1950s
 
@@ -238,8 +268,8 @@
 11. His Girl Friday, Hawks, 1940
 12. Double Indemnity, Wilder, 1944
 13. The Great Dictator, Chaplin, 1940
-14. Children of Paradise, Carné, 1945
-15. The Big Sleep, Hawks, 1946
+14. The Big Sleep, Hawks, 1946
+15. Children of Paradise, Carné, 1945
 16. Red River, Hawks, 1948
 17. Beauty and the Beast, Cocteau, 1946
 18. The Lady Eve, Sturges, 1941
