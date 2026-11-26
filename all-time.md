@@ -20,7 +20,7 @@
 
 13. **Jeanne Dielman** (Akerman, 1975)
 14. **A Man Escaped** (Bresson, 1956)
-15. **Twin Peaks: The Return** (Lynch, 2017)
+15. **Mulholland Dr.** (Lynch, 2001)
 16. **Earth** (Dovzhenko, 1930)
 17. **Playtime** (Tati, 1967)
 18. **Red Desert** (Antonioni, 1964)
@@ -63,7 +63,7 @@
 55. **Once Upon a Time in Anatolia** (Ceylan, 2011)
 56. **Wings of Desire** (Wenders, 1987)
 57. **Silent Light** (Reygadas, 2007)
-58. **Mulholland Dr.** (Lynch, 2001)
+58. **Twin Peaks: The Return** (Lynch, 2017)
 59. **An Autumn Afternoon** (Ozu, 1962)
 60. **End of Summer** (Ozu, 1961)
 61. **Sansho the Bailiff** (Mizoguchi, 1954)

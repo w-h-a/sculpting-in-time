@@ -25,12 +25,12 @@
 ## 2010s
 
 1. The Turin Horse, Tarr, 2011
-2. Twin Peaks: The Return, Lynch, 2017
-3. Uncle Boonmee Who Can Recall His Past Lives, Apichatpong, 2010
-4. The Assassin, Hou, 2015
-5. The Tree of Life, Malick, 2011
-6. A Hidden Life, Malick, 2019
-7. Once Upon a Time in Anatolia, Ceylan, 2011
+2. Uncle Boonmee Who Can Recall His Past Lives, Apichatpong, 2010
+3. The Assassin, Hou, 2015
+4. The Tree of Life, Malick, 2011
+5. A Hidden Life, Malick, 2019
+6. Once Upon a Time in Anatolia, Ceylan, 2011
+7. Twin Peaks: The Return, Lynch, 2017
 8. Tabu, Gomes, 2012
 9. Upstream Color, Carruth, 2013
 10. Holy Motors, Carax, 2012
@@ -49,11 +49,11 @@
 
 1. Werckmeister Harmonies, Tarr, 2000
 2. The 1960s Trilogy, Wong, 1990–2004
-3. Children of Men, Cuarón, 2006
-4. Syndromes and a Century, Apichatpong, 2006
-5. There Will Be Blood, Anderson, 2007
-6. Silent Light, Reygadas, 2007
-7. Mulholland Dr., Lynch, 2001
+3. Mulholland Dr., Lynch, 2001
+4. Children of Men, Cuarón, 2006
+5. Syndromes and a Century, Apichatpong, 2006
+6. There Will Be Blood, Anderson, 2007
+7. Silent Light, Reygadas, 2007
 8. The New World, Malick, 2005
 9. 4 Months, 3 Weeks and 2 Days, Mungiu, 2008
 10. Yi Yi, Yang, 2000
