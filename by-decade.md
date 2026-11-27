@@ -155,8 +155,8 @@
 6. Days of Heaven, Malick, 1978
 7. The Passenger, Antonioni, 1975
 8. Aguirre, the Wrath of God, Herzog, 1972
-9. Nashville, Altman, 1975
-10. Barry Lyndon, Kubrick, 1975
+9. Barry Lyndon, Kubrick, 1975
+10. Nashville, Altman, 1975
 11. Apocalypse Now, Coppola, 1979
 12. A Woman Under the Influence, Cassavetes, 1974
 13. 3 Women, Altman, 1977
