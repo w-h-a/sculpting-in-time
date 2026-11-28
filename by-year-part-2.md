@@ -6,27 +6,30 @@
 **Wes:**
 1. Possible Love (Lee Chang-dong) A
 2. Teenage Sex and Death at Camp Miasma (Schoenbrun) A-
-3. La Bola Negra (Calvo & Ambrossi) A-
-4. Wild Horse Nine (McDonagh) A-
-5. Gentle Monster (Kreutzer) B+
-6. Backrooms (Parsons) B+
-7. The Drama (Borgli) B+
-8. Toy Story 5 (Stanton) B+
-9. Obsession (Barker) B
-10. Project Hail Mary (Lord & Miller) B
-11. 28 Years Later: The Bone Temple (DaCosta) B
+3. Paper Tiger (Gray) A-
+4. La Bola Negra (Calvo & Ambrossi) A-
+5. Wild Horse Nine (McDonagh) A-
+6. Gentle Monster (Kreutzer) B+
+7. Backrooms (Parsons) B+
+8. The Drama (Borgli) B+
+9. Toy Story 5 (Stanton) B+
+10. Obsession (Barker) B
+11. Project Hail Mary (Lord & Miller) B
+12. 28 Years Later: The Bone Temple (DaCosta) B
 
 **Val:**
 1. Wild Horse Nine (McDonagh) A
 2. Possible Love (Lee Chang-dong) A
-3. La Bola Negra (Calvo & Ambrossi) A-
-4. Teenage Sex and Death at Camp Miasma (Schoenbrun) A-
-5. Backrooms (Kane Parsons) A-
-6. The Drama (Kristoffer Borgli) B+
-7. Toy Story 5 (Andrew Stanton) B+
-8. Obsession (Barker) B+
-9. Project Hail Mary (Lord & Miller) B
-10. 28 Years Later: The Bone Temple (Nia DaCosta) B
+3. Paper Tiger (Gray) A
+4. La Bola Negra (Calvo & Ambrossi) A-
+5. Teenage Sex and Death at Camp Miasma (Schoenbrun) A-
+6. Backrooms (Kane Parsons) A-
+7. The Drama (Kristoffer Borgli) B+
+8. Gentle Monster (Kreutzer) B+
+9. Toy Story 5 (Andrew Stanton) B+
+10. Obsession (Barker) B+
+11. Project Hail Mary (Lord & Miller) B
+12. 28 Years Later: The Bone Temple (Nia DaCosta) B
 
 ### 2025
 
